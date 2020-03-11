@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>EventoPrincipal</name>
+    <events>
+        <event-group description="" sid="809536151928801" title="Enlaces a guias de docentes">
+            <sub-events>
+                <event-block sid="979073667371584">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="945693806811155" type="Touch">
+                            <param id="0" name="Object">FamGuiaDocente</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="370360742934561" type="guiaDocente">
+                            <param id="0" name="Animation">&quot;docentes1&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action id="7" name="Go to URL" sid="473425794137145" type="Browser">
+                            <param id="0" name="URL">guiaDocente.direccion</param>
+                            <param id="1" name="Target">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="463554255829694" title="Enlaces a guias de estudiantes">
+            <sub-events>
+                <event-block sid="963849817067485">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="585288853510914" type="Touch">
+                            <param id="0" name="Object">Sprite</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="476880162660927" type="guiaDocente">
+                            <param id="0" name="Animation">&quot;estudiantes1&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action id="7" name="Go to URL" sid="207755248968385" type="Browser">
+                            <param id="0" name="URL">&quot;https://www.youtube.com&quot;</param>
+                            <param id="1" name="Target">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="764983936932210" title="Efectos" />
+        <event-block sid="947723692374227">
+            <conditions>
+                <condition id="-6" name="Every X seconds" sid="595651479082938" type="System">
+                    <param id="0" name="Interval (seconds)">0.15</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Set text" sid="776949709157673" type="Text4">
+                    <param id="0" name="Text">left(text3.Text, len(Text4.Text)+ 1 )</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="722891571333998">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="252277296774776" type="Mouse">
+                    <param id="0" name="Object">guiaDocente</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="590089578374660" type="guiaDocente">
+                    <param id="0" name="Animation">&quot;Presionado&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="0" name="Set cursor style" sid="629951670412338" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="586522048806582">
+            <conditions>
+                <condition id="7" inverted="1" name="Cursor is over object" sid="333034773212046" type="Mouse">
+                    <param id="0" name="Object">guiaDocente</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="411256901904446" type="guiaDocente">
+                    <param id="0" name="Animation">&quot;SinPresionar&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="459442432617180">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="874613443980411" type="Mouse">
+                    <param id="0" name="Object">Sprite</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="383090240854471" type="Sprite">
+                    <param id="0" name="Animation">&quot;Presionado&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="0" name="Set cursor style" sid="431083341116354" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="856199479694825">
+            <conditions>
+                <condition id="7" inverted="1" name="Cursor is over object" sid="152845126896993" type="Mouse">
+                    <param id="0" name="Object">Sprite</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="276196501465360" type="Sprite">
+                    <param id="0" name="Animation">&quot;SinPresionar&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>

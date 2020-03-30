@@ -8,7 +8,7 @@
     <author-website>http://</author-website>
     <app-id>com.mycompany.myapp</app-id>
     <unique-id>2vxg8ezv9vy13</unique-id>
-    <saved-with-version>27500</saved-with-version>
+    <saved-with-version>27700</saved-with-version>
     <used-plugins>
         <plugin author="Scirra" id="Browser" version="1">Browser</plugin>
         <plugin author="Scirra" id="Mouse" version="1">Mouse</plugin>
@@ -57,7 +57,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="556000928386983" speed="5">
-                        <frame duration="1" hotspotX="0.500556" hotspotY="0.501002" original-source="D:\Users\phernandezc\Desktop\fondo.PNG">
+                        <frame duration="1" hotspotX="0.500781" hotspotY="0.501389" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Fondo-Educacion-Financiera-Primaria.gif">
                             <collision-poly>
                                 <point x="0.0697674" y="0.0147059" />
                                 <point x="1" y="0" />
@@ -68,25 +68,110 @@
                     </animation>
                 </animation-folder>
             </object-type>
+            <object-type name="titulo" sid="921047160584835">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="665145357213543" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\Título.png">
+                            <collision-poly>
+                                <point x="0.0263158" y="0.0963855" />
+                                <point x="0.5" y="0.0421687" />
+                                <point x="0.957237" y="0.156627" />
+                                <point x="0.967105" y="0.5" />
+                                <point x="0.891447" y="0.60241" />
+                                <point x="0.5" y="0.921687" />
+                                <point x="0.120066" y="0.560241" />
+                                <point x="0.0263158" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="primero" sid="679064909722287">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="178691655569026" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Recuadro-Primero.png" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="segundo" sid="329122712166004">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="289265774172077" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Recuadro-Segundo.png" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="tercero" sid="625857001124393">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="217933457202955" speed="5">
+                        <frame duration="1" hotspotX="0.502164" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Recuadro-Tercero.png" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Sprite4" sid="108014537712418">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="573775948488512" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Recuadro-Cuarto.png" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="quinto" sid="955413341171023">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="264847399485874" speed="5">
+                        <frame duration="1" hotspotX="0.502415" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Recuadro-Quinto.png" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="sexto" sid="103572626245801">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="262332445066167" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Recurso-Sexto.png" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="logoUned" sid="321316176224913">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="526886002370590" speed="5">
+                        <frame duration="1" hotspotX="0.500396" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\UNEDfullcolor_sin_benemeritazgo.png">
+                            <collision-poly>
+                                <point x="0.214568" y="0.265166" />
+                                <point x="0.499604" y="0.38454" />
+                                <point x="0.788599" y="0.261252" />
+                                <point x="0.783056" y="0.5" />
+                                <point x="0.499604" y="0.989237" />
+                                <point x="0.220903" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="logoPopular" sid="901340597509288">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="563359456291334" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\logo nuevo PPensiones-01.jpg" />
+                    </animation>
+                </animation-folder>
+            </object-type>
         </object-folder>
         <object-folder name="Imagenes">
             <object-type name="guiaDocente" sid="232251129593522">
                 <plugin id="Sprite" />
                 <instance-variables>
-                    <instance-variable name="direccion" sid="186716102915891" type="string" />
+                    <instance-variable name="direccio" sid="186716102915891" type="string" />
                 </instance-variables>
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="docente1" pingpong="0" repeatcount="1" repeatto="0" sid="398097122805978" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.535714" original-source="D:\Users\phernandezc\Desktop\guia_docente.png">
-                            <collision-poly>
-                                <point x="0.00373134" y="0.0119048" />
-                                <point x="0.996269" y="0.0119048" />
-                                <point x="1" y="0.988095" />
-                                <point x="0" y="0.97619" />
-                            </collision-poly>
-                        </frame>
+                    <animation framecount="1" loop="1" name="docente1" pingpong="0" repeatcount="1" repeatto="0" sid="398097122805978" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.557143" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-1.gif" />
                     </animation>
-                    <animation framecount="1" loop="0" name="docente2" pingpong="0" repeatcount="1" repeatto="0" sid="383054007856844" speed="5">
+                    <animation framecount="1" loop="1" name="docente2" pingpong="0" repeatcount="1" repeatto="0" sid="383054007856844" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.535714">
                             <collision-poly>
                                 <point x="0.00373134" y="0.0119048" />
@@ -96,7 +181,7 @@
                             </collision-poly>
                         </frame>
                     </animation>
-                    <animation framecount="1" loop="0" name="docente3" pingpong="0" repeatcount="1" repeatto="0" sid="241950542421021" speed="5">
+                    <animation framecount="1" loop="1" name="docente3" pingpong="0" repeatcount="1" repeatto="0" sid="241950542421021" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.535714">
                             <collision-poly>
                                 <point x="0.00373134" y="0.0119048" />
@@ -106,7 +191,7 @@
                             </collision-poly>
                         </frame>
                     </animation>
-                    <animation framecount="1" loop="0" name="docente4" pingpong="0" repeatcount="1" repeatto="0" sid="335124956495506" speed="5">
+                    <animation framecount="1" loop="1" name="docente4" pingpong="0" repeatcount="1" repeatto="0" sid="335124956495506" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.535714">
                             <collision-poly>
                                 <point x="0.00373134" y="0.0119048" />
@@ -116,7 +201,7 @@
                             </collision-poly>
                         </frame>
                     </animation>
-                    <animation framecount="1" loop="0" name="docente5" pingpong="0" repeatcount="1" repeatto="0" sid="529840787379965" speed="5">
+                    <animation framecount="1" loop="1" name="docente5" pingpong="0" repeatcount="1" repeatto="0" sid="529840787379965" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.535714">
                             <collision-poly>
                                 <point x="0.00373134" y="0.0119048" />
@@ -126,7 +211,7 @@
                             </collision-poly>
                         </frame>
                     </animation>
-                    <animation framecount="1" loop="0" name="docente6" pingpong="0" repeatcount="1" repeatto="0" sid="624980121017255" speed="5">
+                    <animation framecount="1" loop="1" name="docente6" pingpong="0" repeatcount="1" repeatto="0" sid="624980121017255" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.535714">
                             <collision-poly>
                                 <point x="0.00373134" y="0.0119048" />
@@ -136,8 +221,8 @@
                             </collision-poly>
                         </frame>
                     </animation>
-                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="821911535097910" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.535714">
+                    <animation framecount="1" loop="1" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="821911535097910" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.536723" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-1.gif">
                             <collision-poly>
                                 <point x="0.00373134" y="0.0119048" />
                                 <point x="0.996269" y="0.0119048" />
@@ -146,8 +231,8 @@
                             </collision-poly>
                         </frame>
                     </animation>
-                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="679592820040395" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.535714">
+                    <animation framecount="1" loop="1" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="679592820040395" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.536723" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-1.gif">
                             <collision-poly>
                                 <point x="0.00373134" y="0.0119048" />
                                 <point x="0.996269" y="0.0119048" />
@@ -320,6 +405,25 @@
                     </animation>
                 </animation-folder>
             </object-type>
+            <object-type name="acercade" sid="289385907822173">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="453131041565648" speed="5">
+                        <frame duration="1" hotspotX="0.541985" hotspotY="0.459677" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\Botón-Acerca-de.png">
+                            <collision-poly>
+                                <point x="0.0610687" y="0.00403263" />
+                                <point x="0.541985" y="0.0282253" />
+                                <point x="0.793893" y="0.245967" />
+                                <point x="0.965649" y="0.459677" />
+                                <point x="0.996183" y="0.887096" />
+                                <point x="0.541985" y="0.487903" />
+                                <point x="0.503817" y="0.447581" />
+                                <point x="0.519084" y="0.459677" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
         </object-folder>
         <object-folder name="GUI">
             <object-type name="Text2" sid="761732574864624">
@@ -340,6 +444,427 @@
         </object-type>
         <object-type name="Text4" sid="177395112312828">
             <plugin id="Text" />
+        </object-type>
+        <object-type name="banner_gespro2" sid="500025414128462">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="288" loop="1" name="Default" pingpong="0" repeatcount="10" repeatto="0" sid="957726866699751" speed="10">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite5" sid="419886038491031">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="1" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="656472621109194" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-1.gif">
+                        <collision-poly>
+                            <point x="0.08" y="0.180791" />
+                            <point x="0.5" y="0.101695" />
+                            <point x="0.9325" y="0.152542" />
+                            <point x="0.9525" y="0.497175" />
+                            <point x="0.935" y="0.853107" />
+                            <point x="0.5" y="0.79096" />
+                            <point x="0.0625" y="0.858757" />
+                            <point x="0.0475" y="0.497175" />
+                        </collision-poly>
+                    </frame>
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="GifGuiaDocente" sid="731041619491209">
+            <plugin id="Sprite" />
+            <instance-variables>
+                <instance-variable name="direccion" sid="838242479283314" type="string" />
+            </instance-variables>
+            <animation-folder>
+                <animation framecount="7" loop="1" name="docente1" pingpong="0" repeatcount="1" repeatto="0" sid="986199873253850" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                        <collision-poly>
+                            <point x="0.08" y="0.180791" />
+                            <point x="0.5" y="0.101695" />
+                            <point x="0.9325" y="0.152542" />
+                            <point x="0.9525" y="0.497175" />
+                            <point x="0.935" y="0.853107" />
+                            <point x="0.5" y="0.79096" />
+                            <point x="0.0625" y="0.858757" />
+                            <point x="0.0475" y="0.497175" />
+                        </collision-poly>
+                    </frame>
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                        <collision-poly>
+                            <point x="0.08" y="0.180791" />
+                            <point x="0.5" y="0.101695" />
+                            <point x="0.9325" y="0.152542" />
+                            <point x="0.9525" y="0.497175" />
+                            <point x="0.935" y="0.853107" />
+                            <point x="0.5" y="0.79096" />
+                            <point x="0.0625" y="0.858757" />
+                            <point x="0.0475" y="0.497175" />
+                        </collision-poly>
+                    </frame>
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                        <collision-poly>
+                            <point x="0.08" y="0.180791" />
+                            <point x="0.5" y="0.101695" />
+                            <point x="0.9325" y="0.152542" />
+                            <point x="0.9525" y="0.497175" />
+                            <point x="0.935" y="0.853107" />
+                            <point x="0.5" y="0.79096" />
+                            <point x="0.0625" y="0.858757" />
+                            <point x="0.0475" y="0.497175" />
+                        </collision-poly>
+                    </frame>
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                        <collision-poly>
+                            <point x="0.08" y="0.180791" />
+                            <point x="0.5" y="0.101695" />
+                            <point x="0.9325" y="0.152542" />
+                            <point x="0.9525" y="0.497175" />
+                            <point x="0.9425" y="0.870057" />
+                            <point x="0.0625" y="0.858757" />
+                            <point x="0.0475" y="0.497175" />
+                        </collision-poly>
+                    </frame>
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                        <collision-poly>
+                            <point x="0.08" y="0.180791" />
+                            <point x="0.5" y="0.101695" />
+                            <point x="0.9325" y="0.152542" />
+                            <point x="0.9525" y="0.497175" />
+                            <point x="0.935" y="0.853107" />
+                            <point x="0.5" y="0.926554" />
+                            <point x="0.0625" y="0.858757" />
+                            <point x="0.0475" y="0.497175" />
+                        </collision-poly>
+                    </frame>
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                        <collision-poly>
+                            <point x="0.08" y="0.180791" />
+                            <point x="0.5" y="0.101695" />
+                            <point x="0.9325" y="0.152542" />
+                            <point x="0.9525" y="0.497175" />
+                            <point x="0.945" y="0.875706" />
+                            <point x="0.0625" y="0.858757" />
+                            <point x="0.0475" y="0.497175" />
+                        </collision-poly>
+                    </frame>
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                        <collision-poly>
+                            <point x="0.08" y="0.180791" />
+                            <point x="0.5" y="0.101695" />
+                            <point x="0.9325" y="0.152542" />
+                            <point x="0.9525" y="0.497175" />
+                            <point x="0.935" y="0.853107" />
+                            <point x="0.5" y="0.79096" />
+                            <point x="0.0625" y="0.858757" />
+                            <point x="0.0475" y="0.497175" />
+                        </collision-poly>
+                    </frame>
+                </animation>
+                <animation framecount="1" loop="0" name="docente2" pingpong="0" repeatcount="1" repeatto="0" sid="942920974224845" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+                <animation framecount="1" loop="0" name="docente3" pingpong="0" repeatcount="1" repeatto="0" sid="670035923621021" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+                <animation framecount="1" loop="0" name="docente4" pingpong="0" repeatcount="1" repeatto="0" sid="492141221627081" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+                <animation framecount="1" loop="0" name="docente5" pingpong="0" repeatcount="1" repeatto="0" sid="570273377946986" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+                <animation framecount="1" loop="0" name="docente6" pingpong="0" repeatcount="1" repeatto="0" sid="773991265919260" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
         </object-type>
     </object-folder>
     <families>

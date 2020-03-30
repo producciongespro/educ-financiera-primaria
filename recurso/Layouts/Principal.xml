@@ -57,14 +57,80 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>440.51574707</x>
-                        <y>250.577163696</y>
+                        <x>428</x>
+                        <y>237</y>
                         <z>0</z>
-                        <width>760</width>
-                        <height>386</height>
+                        <width>856</width>
+                        <height>478</height>
                         <depth>0</depth>
-                        <hotspotX>0.500556171</hotspotX>
-                        <hotspotY>0.501002014</hotspotY>
+                        <hotspotX>0.500781238</hotspotX>
+                        <hotspotY>0.501388907</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="acercade" uid="21">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>811.376281738</x>
+                        <y>37.289581299</y>
+                        <z>0</z>
+                        <width>93.354576111</width>
+                        <height>81.424804688</height>
+                        <depth>0</depth>
+                        <hotspotX>0.541984737</hotspotX>
+                        <hotspotY>0.459677428</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="titulo" uid="22">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>464.574462891</x>
+                        <y>32.639854431</y>
+                        <z>0</z>
+                        <width>348.771148682</width>
+                        <height>67.688858032</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="primero" uid="23">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>88</x>
+                        <y>249</y>
+                        <z>0</z>
+                        <width>110</width>
+                        <height>279</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -77,19 +143,19 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.nacion.com</direccion>
+                        <direccio>https://www.nacion.com</direccio>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>158</x>
-                        <y>45</y>
+                        <x>92.155578613</x>
+                        <y>-12.114570618</y>
                         <z>0</z>
-                        <width>110</width>
-                        <height>32</height>
+                        <width>117.847312927</width>
+                        <height>41.613052368</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.535714269</hotspotY>
+                        <hotspotY>0.557142854</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -104,14 +170,36 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>155.390853882</x>
-                        <y>372</y>
+                        <x>88.802597046</x>
+                        <y>410.526611328</y>
                         <z>0</z>
                         <width>114.263595581</width>
                         <height>100</height>
                         <depth>0</depth>
                         <hotspotX>0.50181818</hotspotX>
                         <hotspotY>0.501529038</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="segundo" uid="24">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>220</x>
+                        <y>250</y>
+                        <z>0</z>
+                        <width>110</width>
+                        <height>279</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -124,94 +212,19 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>www.repretel.com</direccion>
+                        <direccio>www.repretel.com</direccio>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>276</x>
-                        <y>45</y>
+                        <x>218.591537476</x>
+                        <y>-11.189216614</y>
                         <z>0</z>
-                        <width>110</width>
-                        <height>32</height>
+                        <width>117.847000122</width>
+                        <height>41.612998962</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.535714269</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
-                <instance type="guiaDocente" uid="7">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <instance-variables>
-                        <direccion>www.fod.com</direccion>
-                    </instance-variables>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>394</x>
-                        <y>47</y>
-                        <z>0</z>
-                        <width>110</width>
-                        <height>32</height>
-                        <depth>0</depth>
-                        <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.535714269</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
-                <instance type="guiaDocente" uid="8">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <instance-variables>
-                        <direccion>www.nacion.com</direccion>
-                    </instance-variables>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>512</x>
-                        <y>48</y>
-                        <z>0</z>
-                        <width>110</width>
-                        <height>32</height>
-                        <depth>0</depth>
-                        <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.535714269</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
-                <instance type="guiaDocente" uid="9">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <instance-variables>
-                        <direccion>www.nacion.com</direccion>
-                    </instance-variables>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>634.800109863</x>
-                        <y>49.293838501</y>
-                        <z>0</z>
-                        <width>110</width>
-                        <height>32</height>
-                        <depth>0</depth>
-                        <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.535714269</hotspotY>
+                        <hotspotY>0.557142854</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -226,14 +239,221 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>274.812316895</x>
-                        <y>373.354034424</y>
+                        <x>220.606552124</x>
+                        <y>410.019470215</y>
                         <z>0</z>
                         <width>114.263999939</width>
                         <height>100</height>
                         <depth>0</depth>
                         <hotspotX>0.50181818</hotspotX>
                         <hotspotY>0.501529038</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="tercero" uid="25">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>352</x>
+                        <y>251</y>
+                        <z>0</z>
+                        <width>110</width>
+                        <height>279</height>
+                        <depth>0</depth>
+                        <hotspotX>0.502164483</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="Sprite4" uid="26">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>485</x>
+                        <y>251</y>
+                        <z>0</z>
+                        <width>110</width>
+                        <height>279</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="quinto" uid="27">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>620</x>
+                        <y>252</y>
+                        <z>0</z>
+                        <width>111.073173523</width>
+                        <height>280.138763428</height>
+                        <depth>0</depth>
+                        <hotspotX>0.502415478</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="sexto" uid="28">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>751</x>
+                        <y>252</y>
+                        <z>0</z>
+                        <width>111.089111328</width>
+                        <height>280.138763428</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="guiaDocente" uid="7">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <direccio>www.fod.com</direccio>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>349.591552734</x>
+                        <y>-10.484634399</y>
+                        <z>0</z>
+                        <width>117.847000122</width>
+                        <height>41.612998962</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.557142854</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="guiaDocente" uid="8">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <direccio>www.nacion.com</direccio>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>481.509277344</x>
+                        <y>-10.991798401</y>
+                        <z>0</z>
+                        <width>117.847000122</width>
+                        <height>41.612998962</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.557142854</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="guiaDocente" uid="9">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <direccio>www.nacion.com</direccio>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>617.000732422</x>
+                        <y>-8.582649231</y>
+                        <z>0</z>
+                        <width>117.847000122</width>
+                        <height>41.612998962</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.557142854</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="logoUned" uid="29">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>222.890075684</x>
+                        <y>51.311088562</y>
+                        <z>0</z>
+                        <width>63.8855896</width>
+                        <height>52.377475739</height>
+                        <depth>0</depth>
+                        <hotspotX>0.500395894</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="logoPopular" uid="30">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>147.586456299</x>
+                        <y>44.247314453</y>
+                        <z>0</z>
+                        <width>93.19732666</width>
+                        <height>38.644702911</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -248,8 +468,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>393.404785156</x>
-                        <y>375.406036377</y>
+                        <x>352.606567383</x>
+                        <y>408.626037598</y>
                         <z>0</z>
                         <width>114.263999939</width>
                         <height>100</height>
@@ -270,8 +490,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>511.10760498</x>
-                        <y>377.76184082</y>
+                        <x>488</x>
+                        <y>409</y>
                         <z>0</z>
                         <width>114.263999939</width>
                         <height>100</height>
@@ -292,8 +512,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>633.049499512</x>
-                        <y>373.867431641</y>
+                        <x>622</x>
+                        <y>414</y>
                         <z>0</z>
                         <width>114.263999939</width>
                         <height>100</height>
@@ -314,14 +534,36 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>757.206787109</x>
-                        <y>374.3800354</y>
+                        <x>757</x>
+                        <y>416</y>
                         <z>0</z>
                         <width>114.263999939</width>
                         <height>100</height>
                         <depth>0</depth>
                         <hotspotX>0.50181818</hotspotX>
                         <hotspotY>0.501529038</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="banner_gespro2" uid="31">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>749.525756836</x>
+                        <y>463.334472656</y>
+                        <z>0</z>
+                        <width>203.636917114</width>
+                        <height>27.709716797</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -334,19 +576,169 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>www.nacion.com</direccion>
+                        <direccio>www.nacion.com</direccio>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>757.463256836</x>
-                        <y>51.090042114</y>
+                        <x>751.212402344</x>
+                        <y>-12.189903259</y>
                         <z>0</z>
-                        <width>110</width>
-                        <height>32</height>
+                        <width>117.847000122</width>
+                        <height>41.612998962</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.535714269</hotspotY>
+                        <hotspotY>0.557142854</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="GifGuiaDocente" uid="33">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <direccion>https://www.nacion.com</direccion>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>87.653442383</x>
+                        <y>101.678253174</y>
+                        <z>0</z>
+                        <width>137.640350342</width>
+                        <height>63.40096283</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.502824843</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="GifGuiaDocente" uid="32">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <direccion>https://www.nacion.com</direccion>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>218.831207275</x>
+                        <y>98.391944885</y>
+                        <z>0</z>
+                        <width>137.640350342</width>
+                        <height>63.40096283</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.502824843</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="GifGuiaDocente" uid="34">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <direccion>https://www.nacion.com</direccion>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>354.970214844</x>
+                        <y>100.195213318</y>
+                        <z>0</z>
+                        <width>137.640350342</width>
+                        <height>63.40096283</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.502824843</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="GifGuiaDocente" uid="35">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <direccion>https://www.nacion.com</direccion>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>487.502655029</x>
+                        <y>103.801094055</y>
+                        <z>0</z>
+                        <width>137.640350342</width>
+                        <height>63.40096283</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.502824843</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="GifGuiaDocente" uid="36">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <direccion>https://www.nacion.com</direccion>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>626.276794434</x>
+                        <y>101.0965271</y>
+                        <z>0</z>
+                        <width>137.640350342</width>
+                        <height>63.40096283</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.502824843</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="GifGuiaDocente" uid="37">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <direccion>https://www.nacion.com</direccion>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>753.400085449</x>
+                        <y>101.998504639</y>
+                        <z>0</z>
+                        <width>137.640350342</width>
+                        <height>63.40096283</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.502824843</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -380,8 +772,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>70.39112854</x>
-                        <y>43.879692078</y>
+                        <x>128</x>
+                        <y>648</y>
                         <z>0</z>
                         <width>50.690673828</width>
                         <height>37.345626831</height>
@@ -407,8 +799,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>57.020957947</x>
-                        <y>364.543548584</y>
+                        <x>56.685112</x>
+                        <y>706.917724609</y>
                         <z>0</z>
                         <width>295.922851563</width>
                         <height>35.484489441</height>

@@ -626,7 +626,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.nacion.com</direccion>
+                        <direccion>https://www.youtube.com/?hl=es-419</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -651,7 +651,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.nacion.com</direccion>
+                        <direccion>https://edition.cnn.com/</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -676,7 +676,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.nacion.com</direccion>
+                        <direccion>https://www.msn.com/es-co/noticias/hotmail</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -701,7 +701,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.nacion.com</direccion>
+                        <direccion>https://www.teletica.com/</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -726,7 +726,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.nacion.com</direccion>
+                        <direccion>https://www.repretel.com/noticias/canal-6-336</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>

@@ -464,7 +464,7 @@
                 <instance type="GifGuiaEstudiante" uid="4">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
+                        <initial-animation>estudiante1</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -489,7 +489,7 @@
                 <instance type="GifGuiaEstudiante" uid="5">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
+                        <initial-animation>estudiante2</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -503,10 +503,10 @@
                         <y>403.125579834</y>
                         <z>0</z>
                         <width>114.307220459</width>
-                        <height>41.830356598</height>
+                        <height>42.203842163</height>
                         <depth>0</depth>
                         <hotspotX>0.512747884</hotspotX>
-                        <hotspotY>0.455357134</hotspotY>
+                        <hotspotY>0.504424751</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -514,7 +514,7 @@
                 <instance type="GifGuiaEstudiante" uid="6">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
+                        <initial-animation>estudiante3</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -530,7 +530,7 @@
                         <width>114.307220459</width>
                         <height>41.830356598</height>
                         <depth>0</depth>
-                        <hotspotX>0.512747884</hotspotX>
+                        <hotspotX>0.501416445</hotspotX>
                         <hotspotY>0.455357134</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
@@ -539,7 +539,7 @@
                 <instance type="GifGuiaEstudiante" uid="7">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
+                        <initial-animation>estudiante4</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -552,11 +552,11 @@
                         <x>492.553405762</x>
                         <y>403.125610352</y>
                         <z>0</z>
-                        <width>114.307220459</width>
-                        <height>41.830356598</height>
+                        <width>129.526596069</width>
+                        <height>66.106903076</height>
                         <depth>0</depth>
-                        <hotspotX>0.512747884</hotspotX>
-                        <hotspotY>0.455357134</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.502824843</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -564,7 +564,7 @@
                 <instance type="GifGuiaEstudiante" uid="8">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
+                        <initial-animation>estudiante5</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -580,7 +580,7 @@
                         <width>114.307220459</width>
                         <height>41.830356598</height>
                         <depth>0</depth>
-                        <hotspotX>0.512747884</hotspotX>
+                        <hotspotX>0.487252116</hotspotX>
                         <hotspotY>0.455357134</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
@@ -589,7 +589,7 @@
                 <instance type="GifGuiaEstudiante" uid="9">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
+                        <initial-animation>estudiante6</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -605,7 +605,7 @@
                         <width>114.307220459</width>
                         <height>41.830356598</height>
                         <depth>0</depth>
-                        <hotspotX>0.512747884</hotspotX>
+                        <hotspotX>0.487252116</hotspotX>
                         <hotspotY>0.455357134</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>

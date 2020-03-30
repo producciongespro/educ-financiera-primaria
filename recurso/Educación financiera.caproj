@@ -57,7 +57,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="556000928386983" speed="5">
-                        <frame duration="1" hotspotX="0.500781" hotspotY="0.501389" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Fondo-Educacion-Financiera-Primaria.gif">
+                        <frame duration="1" hotspotX="0.500781" hotspotY="0.501389" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Fondo-Color.png">
                             <collision-poly>
                                 <point x="0.0697674" y="0.0147059" />
                                 <point x="1" y="0" />
@@ -139,14 +139,14 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="526886002370590" speed="5">
-                        <frame duration="1" hotspotX="0.500396" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\UNEDfullcolor_sin_benemeritazgo.png">
+                        <frame duration="1" hotspotX="0.493506" hotspotY="0.493506" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Logo-UNED.png">
                             <collision-poly>
-                                <point x="0.214568" y="0.265166" />
-                                <point x="0.499604" y="0.38454" />
-                                <point x="0.788599" y="0.261252" />
-                                <point x="0.783056" y="0.5" />
-                                <point x="0.499604" y="0.989237" />
-                                <point x="0.220903" y="0.5" />
+                                <point x="0.182126" y="0.243424" />
+                                <point x="0.493074" y="0.370549" />
+                                <point x="0.808342" y="0.239255" />
+                                <point x="0.802295" y="0.493506" />
+                                <point x="0.493074" y="1" />
+                                <point x="0.189037" y="0.493506" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -156,7 +156,37 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="563359456291334" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\logo nuevo PPensiones-01.jpg" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Logo-Popular.png">
+                            <collision-poly>
+                                <point x="0.166667" y="0.170732" />
+                                <point x="0.5" y="0.0487805" />
+                                <point x="0.809524" y="0.195122" />
+                                <point x="0.928571" y="0.5" />
+                                <point x="0.821429" y="0.817073" />
+                                <point x="0.5" y="0.963415" />
+                                <point x="0.166667" y="0.829268" />
+                                <point x="0.0357143" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Sprite2" sid="701077384512340">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="843470502124667" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Logo-MEP.png">
+                            <collision-poly>
+                                <point x="0.178571" y="0.182927" />
+                                <point x="0.5" y="0.0487805" />
+                                <point x="0.821429" y="0.182927" />
+                                <point x="0.952381" y="0.5" />
+                                <point x="0.833333" y="0.829268" />
+                                <point x="0.5" y="0.963415" />
+                                <point x="0.178571" y="0.817073" />
+                                <point x="0.0595238" y="0.5" />
+                            </collision-poly>
+                        </frame>
                     </animation>
                 </animation-folder>
             </object-type>
@@ -612,17 +642,17 @@
                 <instance-variable name="direccion" sid="838242479283314" type="string" />
             </instance-variables>
             <animation-folder>
-                <animation framecount="7" loop="1" name="docente1" pingpong="0" repeatcount="1" repeatto="0" sid="986199873253850" speed="2">
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                <animation framecount="7" loop="1" name="docente1" pingpong="0" repeatcount="1" repeatto="0" sid="986199873253850" speed="1">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.514286">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.101695" />
-                            <point x="0.9325" y="0.152542" />
-                            <point x="0.9525" y="0.497175" />
-                            <point x="0.935" y="0.853107" />
-                            <point x="0.5" y="0.79096" />
-                            <point x="0.0625" y="0.858757" />
-                            <point x="0.0475" y="0.497175" />
+                            <point x="0.0384615" y="0.107143" />
+                            <point x="0.5" y="0.00714286" />
+                            <point x="0.975275" y="0.0714286" />
+                            <point x="0.997253" y="0.507143" />
+                            <point x="0.978022" y="0.957143" />
+                            <point x="0.5" y="0.878571" />
+                            <point x="0.0192308" y="0.964286" />
+                            <point x="0.00274725" y="0.507143" />
                         </collision-poly>
                     </frame>
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
@@ -774,16 +804,16 @@
                 <instance-variable name="direccion" sid="234382344024591" type="string" />
             </instance-variables>
             <animation-folder>
-                <animation framecount="5" loop="1" name="estudiante1" pingpong="0" repeatcount="1" repeatto="0" sid="182406333484718" speed="2">
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                <animation framecount="5" loop="1" name="estudiante1" pingpong="0" repeatcount="1" repeatto="0" sid="182406333484718" speed="1">
+                    <frame duration="1" hotspotX="0.512748" hotspotY="0.455357">
                         <collision-poly>
-                            <point x="0.0975" y="0.220339" />
-                            <point x="0.5" y="0.220339" />
-                            <point x="0.8575" y="0.322034" />
-                            <point x="0.9225" y="0.824859" />
-                            <point x="0.5" y="0.836158" />
-                            <point x="0.1175" y="0.734463" />
-                            <point x="0.0875" y="0.497175" />
+                            <point x="0.0566572" y="0.00892857" />
+                            <point x="0.512748" y="0.00892857" />
+                            <point x="0.917847" y="0.169643" />
+                            <point x="0.991501" y="0.964286" />
+                            <point x="0.512748" y="0.982143" />
+                            <point x="0.0793201" y="0.821429" />
+                            <point x="0.0453258" y="0.446429" />
                         </collision-poly>
                     </frame>
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825">

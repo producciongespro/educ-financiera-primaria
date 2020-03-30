@@ -69,5 +69,29 @@
             </sub-events>
         </event-group>
         <event-group description="" sid="764983936932210" title="Efectos" />
+        <event-block sid="206897524522644">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="774564628241292" type="Mouse">
+                    <param id="0" name="Object">GifGuiaDocente</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Set cursor style" sid="764303159072363" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="691578608948083">
+            <conditions>
+                <condition id="7" inverted="1" name="Cursor is over object" sid="858106217387174" type="Mouse">
+                    <param id="0" name="Object">GifGuiaDocente</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Set cursor style" sid="505198961317285" type="Mouse">
+                    <param id="0" name="Cursor style">0</param>
+                </action>
+            </actions>
+        </event-block>
     </events>
 </c2eventsheet>

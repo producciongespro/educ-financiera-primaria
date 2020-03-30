@@ -314,7 +314,7 @@
                 <instance type="GifGuiaDocente" uid="33">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
+                        <initial-animation>docente1</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -339,7 +339,7 @@
                 <instance type="GifGuiaDocente" uid="32">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
+                        <initial-animation>docente2</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -352,11 +352,11 @@
                         <x>221.534820557</x>
                         <y>103.775619507</y>
                         <z>0</z>
-                        <width>115.597869873</width>
-                        <height>42.822528839</height>
+                        <width>114.327560425</width>
+                        <height>41.293151855</height>
                         <depth>0</depth>
-                        <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.514285743</hotspotY>
+                        <hotspotX>0.508333325</hotspotX>
+                        <hotspotY>0.525925934</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -364,7 +364,7 @@
                 <instance type="GifGuiaDocente" uid="34">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>defauld</initial-animation>
+                        <initial-animation>docente3</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -377,11 +377,11 @@
                         <x>353.166625977</x>
                         <y>102.46446991</y>
                         <z>0</z>
-                        <width>115.597869873</width>
-                        <height>42.822528839</height>
+                        <width>112.104530334</width>
+                        <height>41.599029541</height>
                         <depth>0</depth>
-                        <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.514285743</hotspotY>
+                        <hotspotX>0.507082164</hotspotX>
+                        <hotspotY>0.492647052</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -389,7 +389,7 @@
                 <instance type="GifGuiaDocente" uid="35">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
+                        <initial-animation>docente4</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -402,11 +402,11 @@
                         <x>485.69909668</x>
                         <y>101.070350647</y>
                         <z>0</z>
-                        <width>115.597869873</width>
-                        <height>42.822528839</height>
+                        <width>106.705726624</width>
+                        <height>38.846149445</height>
                         <depth>0</depth>
-                        <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.514285743</hotspotY>
+                        <hotspotX>0.491071433</hotspotX>
+                        <hotspotY>0.511811018</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -414,7 +414,7 @@
                 <instance type="GifGuiaDocente" uid="36">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
+                        <initial-animation>docente5</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -427,11 +427,11 @@
                         <x>624.473144531</x>
                         <y>98.365783691</y>
                         <z>0</z>
-                        <width>115.597869873</width>
-                        <height>42.822528839</height>
+                        <width>108.293609619</width>
+                        <height>39.15202713</height>
                         <depth>0</depth>
-                        <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.514285743</hotspotY>
+                        <hotspotX>0.498533726</hotspotX>
+                        <hotspotY>0.515625</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -439,7 +439,7 @@
                 <instance type="GifGuiaDocente" uid="37">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
+                        <initial-animation>docente6</initial-animation>
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
@@ -452,11 +452,11 @@
                         <x>751.596435547</x>
                         <y>99.26776123</y>
                         <z>0</z>
-                        <width>115.597869873</width>
-                        <height>42.822528839</height>
+                        <width>105.117843628</width>
+                        <height>36.399150848</height>
                         <depth>0</depth>
-                        <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.514285743</hotspotY>
+                        <hotspotX>0.501510561</hotspotX>
+                        <hotspotY>0.512605071</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>

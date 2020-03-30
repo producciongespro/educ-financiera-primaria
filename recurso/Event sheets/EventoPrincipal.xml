@@ -80,18 +80,46 @@
                     <param id="0" name="Cursor style">1</param>
                 </action>
             </actions>
+            <sub-events>
+                <event-block sid="598095494300980">
+                    <conditions>
+                        <condition id="7" inverted="1" name="Cursor is over object" sid="405469537912332" type="Mouse">
+                            <param id="0" name="Object">GifGuiaDocente</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set cursor style" sid="150066880733165" type="Mouse">
+                            <param id="0" name="Cursor style">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
         </event-block>
-        <event-block sid="691578608948083">
+        <event-block sid="661692837318605">
             <conditions>
-                <condition id="7" inverted="1" name="Cursor is over object" sid="858106217387174" type="Mouse">
-                    <param id="0" name="Object">GifGuiaDocente</param>
+                <condition id="7" name="Cursor is over object" sid="552392625002362" type="Mouse">
+                    <param id="0" name="Object">GifGuiaEstudiante</param>
                 </condition>
             </conditions>
             <actions>
-                <action id="0" name="Set cursor style" sid="505198961317285" type="Mouse">
-                    <param id="0" name="Cursor style">0</param>
+                <action id="0" name="Set cursor style" sid="372287758514176" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
                 </action>
             </actions>
+            <sub-events>
+                <event-block sid="214141043112359">
+                    <conditions>
+                        <condition id="7" inverted="1" name="Cursor is over object" sid="776057777762060" type="Mouse">
+                            <param id="0" name="Object">GifGuiaEstudiante</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set cursor style" sid="653254027849628" type="Mouse">
+                            <param id="0" name="Cursor style">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
         </event-block>
     </events>
 </c2eventsheet>

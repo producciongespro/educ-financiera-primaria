@@ -19,9 +19,7 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <property expanded="0" name="Window Size" />
         <property expanded="1" name="Configuration Settings" />
     </properties>
-    <families-expanded root="1">
-        <family expanded="0" name="FamGuiaDocente" />
-    </families-expanded>
+    <families-expanded root="1" />
     <folders-expanded>
         <folder expanded="1" path="object-folder/" />
         <folder expanded="1" path="object-folder/Fondos/" />
@@ -44,15 +42,10 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/sexto/" />
         <folder expanded="1" path="animation-folder/logoUned/" />
         <folder expanded="1" path="animation-folder/logoPopular/" />
-        <folder expanded="1" path="animation-folder/guiaDocente/" />
         <folder expanded="1" path="animation-folder/Sprite/" />
-        <folder expanded="1" path="animation-folder/Sprite2/" />
-        <folder expanded="1" path="animation-folder/Sprite3/" />
-        <folder expanded="1" path="animation-folder/animacion/" />
-        <folder expanded="1" path="animation-folder/imagen/" />
         <folder expanded="1" path="animation-folder/acercade/" />
         <folder expanded="1" path="animation-folder/banner_gespro2/" />
-        <folder expanded="1" path="animation-folder/Sprite5/" />
         <folder expanded="1" path="animation-folder/GifGuiaDocente/" />
+        <folder expanded="1" path="animation-folder/GifGuiaEstudiante/" />
     </folders-expanded>
 </c2uistate>

@@ -9,25 +9,25 @@
                 <event-block sid="979073667371584">
                     <conditions>
                         <condition id="3" name="On touched object" sid="945693806811155" type="Touch">
-                            <param id="0" name="Object">guiaDocente</param>
+                            <param id="0" name="Object">GifGuiaDocente</param>
                         </condition>
                     </conditions>
                     <actions>
                         <action id="-9" name="Set value" sid="930681093377496" type="System">
                             <param id="0" name="Variable">seleccion</param>
-                            <param id="1" name="Value">guiaDocente.UID</param>
+                            <param id="1" name="Value">GifGuiaDocente.UID</param>
                         </action>
                     </actions>
                     <sub-events>
                         <event-block sid="906019627544386">
                             <conditions>
-                                <condition id="-14" name="Pick by unique ID" sid="385204663464928" type="guiaDocente">
+                                <condition id="-14" name="Pick by unique ID" sid="385204663464928" type="GifGuiaDocente">
                                     <param id="0" name="Unique ID">seleccion</param>
                                 </condition>
                             </conditions>
                             <actions>
                                 <action id="8" name="Open URL in new window" sid="787747151837156" type="Browser">
-                                    <param id="0" name="URL">guiaDocente.direccio</param>
+                                    <param id="0" name="URL">GifGuiaDocente.direccion</param>
                                     <param id="1" name="Tag">&quot;NewWindow&quot;</param>
                                 </action>
                             </actions>
@@ -38,35 +38,33 @@
         </event-group>
         <event-group description="" sid="463554255829694" title="Enlaces a guias de estudiantes">
             <sub-events>
-                <event-block sid="963849817067485">
+                <event-block sid="173960100377060">
                     <conditions>
-                        <condition id="3" name="On touched object" sid="585288853510914" type="Touch">
-                            <param id="0" name="Object">Sprite</param>
+                        <condition id="3" name="On touched object" sid="662396305919235" type="Touch">
+                            <param id="0" name="Object">GifGuiaEstudiante</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="4" name="Set animation" sid="476880162660927" type="guiaDocente">
-                            <param id="0" name="Animation">&quot;estudiantes1&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                        <action id="7" name="Go to URL" sid="207755248968385" type="Browser">
-                            <param id="0" name="URL">&quot;https://www.youtube.com&quot;</param>
-                            <param id="1" name="Target">0</param>
+                        <action id="-9" name="Set value" sid="178882796601015" type="System">
+                            <param id="0" name="Variable">seleccion</param>
+                            <param id="1" name="Value">GifGuiaEstudiante.UID</param>
                         </action>
                     </actions>
-                </event-block>
-                <event-block sid="575087374504133">
-                    <conditions>
-                        <condition id="3" name="On touched object" sid="432812834282353" type="Touch">
-                            <param id="0" name="Object">Sprite</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="7" name="Go to URL" sid="879645537550301" type="Browser">
-                            <param id="0" name="URL">&quot;https://www.youtube.com&quot;</param>
-                            <param id="1" name="Target">0</param>
-                        </action>
-                    </actions>
+                    <sub-events>
+                        <event-block sid="975603202234629">
+                            <conditions>
+                                <condition id="-14" name="Pick by unique ID" sid="604790654748317" type="GifGuiaEstudiante">
+                                    <param id="0" name="Unique ID">seleccion</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action id="8" name="Open URL in new window" sid="178229692456895" type="Browser">
+                                    <param id="0" name="URL">GifGuiaEstudiante.direccion</param>
+                                    <param id="1" name="Tag">&quot;NewWindow&quot;</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                    </sub-events>
                 </event-block>
             </sub-events>
         </event-group>

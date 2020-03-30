@@ -28,7 +28,30 @@
             <use-render-cells>0</use-render-cells>
             <blend-mode>0</blend-mode>
             <effect-fallback>0</effect-fallback>
-            <instances />
+            <instances>
+                <instance type="fondoPrincip" uid="3">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>428.000030518</x>
+                        <y>241.972625732</y>
+                        <z>0</z>
+                        <width>856</width>
+                        <height>487.917694092</height>
+                        <depth>0</depth>
+                        <hotspotX>0.500781238</hotspotX>
+                        <hotspotY>0.501388907</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+            </instances>
             <effects />
         </layer>
         <layer name="principal" sid="233183057905700">
@@ -47,28 +70,6 @@
             <blend-mode>0</blend-mode>
             <effect-fallback>0</effect-fallback>
             <instances>
-                <instance type="fondoPrincip" uid="3">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>428</x>
-                        <y>237</y>
-                        <z>0</z>
-                        <width>856</width>
-                        <height>478</height>
-                        <depth>0</depth>
-                        <hotspotX>0.500781238</hotspotX>
-                        <hotspotY>0.501388907</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
                 <instance type="acercade" uid="21">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>

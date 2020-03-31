@@ -470,7 +470,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes1.pdf</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiante1.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -495,7 +495,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes2.pdf</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiante2.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -520,7 +520,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes3.pdf</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiante3.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -545,7 +545,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes4.pdf</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiante4.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -570,7 +570,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes5.pdf</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiante5.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -595,7 +595,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes6.pdf</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiante6.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>

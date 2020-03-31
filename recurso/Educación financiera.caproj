@@ -320,6 +320,12 @@
                     </animation>
                 </animation-folder>
             </object-type>
+            <object-type name="txtDrte" sid="229702312029954">
+                <plugin id="Text" />
+            </object-type>
+            <object-type name="txtDesarrollo" sid="579597662702350">
+                <plugin id="Text" />
+            </object-type>
         </object-folder>
         <object-folder name="GUI">
             <object-type name="Text2" sid="761732574864624">
@@ -1249,15 +1255,36 @@
                 </animation>
             </animation-folder>
         </object-type>
+        <object-type name="btncerrar" sid="497391827348818">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="433038286587441" speed="5">
+                    <frame duration="1" hotspotX="0.505495" hotspotY="0.505882" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\cerrar.png">
+                        <collision-poly>
+                            <point x="0.120879" y="0.129412" />
+                            <point x="0.494505" y="0.117647" />
+                            <point x="0.879121" y="0.129412" />
+                            <point x="0.89011" y="0.505882" />
+                            <point x="0.868132" y="0.870588" />
+                            <point x="0.494505" y="0.882353" />
+                            <point x="0.131868" y="0.870588" />
+                            <point x="0.10989" y="0.505882" />
+                        </collision-poly>
+                    </frame>
+                </animation>
+            </animation-folder>
+        </object-type>
     </object-folder>
     <families />
     <layout-folder>
         <layout>Intro.xml</layout>
         <layout>Principal.xml</layout>
+        <layout>Acercade.xml</layout>
     </layout-folder>
     <event-folder>
         <event-sheet>EventoIntro.xml</event-sheet>
         <event-sheet>EventoPrincipal.xml</event-sheet>
+        <event-sheet>EventoAcercade.xml</event-sheet>
     </event-folder>
     <global-instances>
         <global-instance type="Touch" uid="2">

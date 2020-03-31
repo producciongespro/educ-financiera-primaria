@@ -121,5 +121,18 @@
                 </event-block>
             </sub-events>
         </event-block>
+        <event-group description="" sid="518529815300051" title="Botones" />
+        <event-block sid="546051969019120">
+            <conditions>
+                <condition id="3" name="On touched object" sid="558773911857930" type="Touch">
+                    <param id="0" name="Object">acercade</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="869283308663833" type="System">
+                    <param id="0" name="Layout">Acercade</param>
+                </action>
+            </actions>
+        </event-block>
     </events>
 </c2eventsheet>

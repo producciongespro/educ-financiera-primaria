@@ -10,8 +10,9 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <display name="HTML5" />
     </configurations>
     <open-tabs>
-        <layout order="0">Principal</layout>
-        <event-sheet order="1">EventoPrincipal</event-sheet>
+        <layout order="0">Intro</layout>
+        <layout order="1">Principal</layout>
+        <event-sheet active="1" order="2">EventoIntro</event-sheet>
     </open-tabs>
     <properties>
         <property expanded="1" name="About" />
@@ -37,12 +38,12 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/primero/" />
         <folder expanded="1" path="animation-folder/segundo/" />
         <folder expanded="1" path="animation-folder/tercero/" />
-        <folder expanded="1" path="animation-folder/Sprite4/" />
+        <folder expanded="1" path="animation-folder/cuarto/" />
         <folder expanded="1" path="animation-folder/quinto/" />
         <folder expanded="1" path="animation-folder/sexto/" />
         <folder expanded="1" path="animation-folder/logoUned/" />
         <folder expanded="1" path="animation-folder/logoPopular/" />
-        <folder expanded="1" path="animation-folder/Sprite2/" />
+        <folder expanded="1" path="animation-folder/logoMep/" />
         <folder expanded="1" path="animation-folder/Sprite/" />
         <folder expanded="1" path="animation-folder/acercade/" />
         <folder expanded="1" path="animation-folder/banner_gespro2/" />

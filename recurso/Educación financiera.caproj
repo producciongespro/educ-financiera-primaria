@@ -49,7 +49,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="674740986259144" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Fondo-Educacion-Financiera-Primaria.gif" />
                     </animation>
                 </animation-folder>
             </object-type>
@@ -111,7 +111,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="Sprite4" sid="108014537712418">
+            <object-type name="cuarto" sid="108014537712418">
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="573775948488512" speed="5">
@@ -171,7 +171,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="Sprite2" sid="701077384512340">
+            <object-type name="logoMep" sid="701077384512340">
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="843470502124667" speed="5">

@@ -39,11 +39,11 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>418</x>
-                        <y>239</y>
+                        <x>428.5</x>
+                        <y>247.5</y>
                         <z>0</z>
-                        <width>696</width>
-                        <height>370</height>
+                        <width>859</width>
+                        <height>499</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>0.5</hotspotY>
@@ -51,12 +51,34 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="Text2" uid="1">
+                <instance type="titulo" uid="1">
                     <properties>
-                        <text>Educacion Financiera </text>
                         <initial-visibility>Visible</initial-visibility>
-                        <font>Baskerville Old Face,-37.6,700,0</font>
-                        <color>255,255,204</color>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>412</x>
+                        <y>229</y>
+                        <z>0</z>
+                        <width>472</width>
+                        <height>132</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="Text3" uid="11">
+                    <properties>
+                        <text>Guías para docentes y estudiantes</text>
+                        <initial-visibility>Visible</initial-visibility>
+                        <font>Snap ITC,-18.4,700,0</font>
+                        <color>0,0,0</color>
                         <horizontal-alignment>Left</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -66,15 +88,42 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>223</x>
-                        <y>211</y>
+                        <x>274.058532715</x>
+                        <y>-96.720001221</y>
                         <z>0</z>
-                        <width>497</width>
-                        <height>240</height>
+                        <width>817</width>
+                        <height>90</height>
                         <depth>0</depth>
                         <hotspotX>0</hotspotX>
                         <hotspotY>0</hotspotY>
                         <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="Text4" uid="12">
+                    <properties>
+                        <text></text>
+                        <initial-visibility>Visible</initial-visibility>
+                        <font>Snap ITC,-21.6,400,0</font>
+                        <color>0,153,204</color>
+                        <horizontal-alignment>Left</horizontal-alignment>
+                        <vertical-alignment>Top</vertical-alignment>
+                        <hotspot>Top-left</hotspot>
+                        <wrapping>Word</wrapping>
+                        <line-height>0</line-height>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>119</x>
+                        <y>465</y>
+                        <z>0</z>
+                        <width>265</width>
+                        <height>661</height>
+                        <depth>0</depth>
+                        <hotspotX>0</hotspotX>
+                        <hotspotY>0</hotspotY>
+                        <angle>-1.560127378</angle>
                         <opacity>1</opacity>
                     </world>
                 </instance>

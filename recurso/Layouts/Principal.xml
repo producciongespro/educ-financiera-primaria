@@ -320,7 +320,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.nacion.com</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/guiaprofesor1.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -345,7 +345,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.youtube.com/?hl=es-419</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/guiaprofesor2.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -370,7 +370,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://edition.cnn.com/</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/guiaprofesor3.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -395,7 +395,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.msn.com/es-co/noticias/hotmail</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/guiaprofesor4.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -420,7 +420,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.teletica.com/</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/guiaprofesor5.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -445,7 +445,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.repretel.com/noticias/canal-6-336</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/guiaprofesor6.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -470,7 +470,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion></direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes1.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -495,7 +495,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.youtube.com/?hl=es-419</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes2.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -520,7 +520,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://edition.cnn.com/</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes3.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -545,7 +545,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.msn.com/es-co/noticias/hotmail</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes4.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -570,7 +570,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.teletica.com/</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes5.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
@@ -595,7 +595,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <direccion>https://www.repretel.com/noticias/canal-6-336</direccion>
+                        <direccion>http://recursos.mep.go.cr/2020/webservices/educ_finan_guias_primaria/libros_estudiantes6.pdf</direccion>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>

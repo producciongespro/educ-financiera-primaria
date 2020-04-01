@@ -34,7 +34,7 @@
         <prop name="Enable WebGL">On</prop>
         <prop name="Fullscreen in browser">Letterbox scale</prop>
         <prop name="Fullscreen scaling">High quality</prop>
-        <prop name="Loader style">Construct 2 splash</prop>
+        <prop name="Loader style">Progress bar only</prop>
         <prop name="Orientations">Any</prop>
         <prop name="Pause on unfocus">No</prop>
         <prop name="Physics engine">Box2D asm.js</prop>
@@ -648,7 +648,7 @@
                 <instance-variable name="direccion" sid="838242479283314" type="string" />
             </instance-variables>
             <animation-folder>
-                <animation framecount="7" loop="1" name="docente1" pingpong="0" repeatcount="1" repeatto="0" sid="986199873253850" speed="1">
+                <animation framecount="7" loop="0" name="docente1" pingpong="0" repeatcount="1" repeatto="0" sid="986199873253850" speed="1">
                     <frame duration="1" hotspotX="0.5" hotspotY="0.514286">
                         <collision-poly>
                             <point x="0.0384615" y="0.107143" />
@@ -732,7 +732,7 @@
                         </collision-poly>
                     </frame>
                 </animation>
-                <animation framecount="7" loop="1" name="docente2" pingpong="0" repeatcount="1" repeatto="0" sid="942920974224845" speed="1">
+                <animation framecount="7" loop="0" name="docente2" pingpong="0" repeatcount="1" repeatto="0" sid="942920974224845" speed="1">
                     <frame duration="1" hotspotX="0.508333" hotspotY="0.525926" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-2.gif">
                         <collision-poly>
                             <point x="0.0416667" y="0.103704" />
@@ -818,7 +818,7 @@
                         </collision-poly>
                     </frame>
                 </animation>
-                <animation framecount="7" loop="1" name="docente3" pingpong="0" repeatcount="1" repeatto="0" sid="670035923621021" speed="1">
+                <animation framecount="7" loop="0" name="docente3" pingpong="0" repeatcount="1" repeatto="0" sid="670035923621021" speed="1">
                     <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-3.gif">
                         <collision-poly>
                             <point x="0.0453258" y="0.110294" />
@@ -838,7 +838,7 @@
                     <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-5.png" />
                     <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-6.png" />
                 </animation>
-                <animation framecount="7" loop="1" name="docente4" pingpong="0" repeatcount="1" repeatto="0" sid="492141221627081" speed="1">
+                <animation framecount="7" loop="0" name="docente4" pingpong="0" repeatcount="1" repeatto="0" sid="492141221627081" speed="1">
                     <frame duration="1" hotspotX="0.491071" hotspotY="0.511811" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-4.gif">
                         <collision-poly>
                             <point x="0.0208333" y="0.141732" />
@@ -858,7 +858,7 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-5.png" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-6.png" />
                 </animation>
-                <animation framecount="7" loop="1" name="docente5" pingpong="0" repeatcount="1" repeatto="0" sid="570273377946986" speed="1">
+                <animation framecount="7" loop="0" name="docente5" pingpong="0" repeatcount="1" repeatto="0" sid="570273377946986" speed="1">
                     <frame duration="1" hotspotX="0.498534" hotspotY="0.515625" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-5.gif">
                         <collision-poly>
                             <point x="0.026393" y="0.125" />
@@ -878,7 +878,7 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-5-0\Gif-Guia-Docente-5-5.png" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-5-0\Gif-Guia-Docente-5-6.png" />
                 </animation>
-                <animation framecount="7" loop="1" name="docente6" pingpong="0" repeatcount="1" repeatto="0" sid="773991265919260" speed="1">
+                <animation framecount="7" loop="0" name="docente6" pingpong="0" repeatcount="1" repeatto="0" sid="773991265919260" speed="1">
                     <frame duration="1" hotspotX="0.501511" hotspotY="0.512605" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-6.gif">
                         <collision-poly>
                             <point x="0.0302115" y="0.134454" />
@@ -906,7 +906,7 @@
                 <instance-variable name="direccion" sid="234382344024591" type="string" />
             </instance-variables>
             <animation-folder>
-                <animation framecount="5" loop="1" name="estudiante1" pingpong="0" repeatcount="1" repeatto="0" sid="182406333484718" speed="1">
+                <animation framecount="5" loop="0" name="estudiante1" pingpong="0" repeatcount="1" repeatto="0" sid="182406333484718" speed="1">
                     <frame duration="1" hotspotX="0.512748" hotspotY="0.455357">
                         <collision-poly>
                             <point x="0.0566572" y="0.00892857" />
@@ -963,7 +963,7 @@
                         </collision-poly>
                     </frame>
                 </animation>
-                <animation framecount="5" loop="1" name="estudiante2" pingpong="0" repeatcount="1" repeatto="0" sid="394903906693278" speed="1">
+                <animation framecount="5" loop="0" name="estudiante2" pingpong="0" repeatcount="1" repeatto="0" sid="394903906693278" speed="1">
                     <frame duration="1" hotspotX="0.512748" hotspotY="0.504425" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Estudiante-2.gif">
                         <collision-poly>
                             <point x="0.0396601" y="0.00884956" />
@@ -981,7 +981,7 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-2-0\Gif-Guia-Estudiante-2-3.png" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-2-0\Gif-Guia-Estudiante-2-4.png" />
                 </animation>
-                <animation framecount="5" loop="1" name="estudiante3" pingpong="0" repeatcount="1" repeatto="0" sid="573942146981158" speed="1">
+                <animation framecount="5" loop="0" name="estudiante3" pingpong="0" repeatcount="1" repeatto="0" sid="573942146981158" speed="1">
                     <frame duration="1" hotspotX="0.501416" hotspotY="0.455357" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Estudiante-3.gif">
                         <collision-poly>
                             <point x="0.0453258" y="0.00892857" />
@@ -999,7 +999,7 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-3-0\Gif-Guia-Estudiante-3-3.png" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-3-0\Gif-Guia-Estudiante-3-4.png" />
                 </animation>
-                <animation framecount="5" loop="1" name="estudiante4" pingpong="0" repeatcount="1" repeatto="0" sid="514305636033284" speed="1">
+                <animation framecount="5" loop="0" name="estudiante4" pingpong="0" repeatcount="1" repeatto="0" sid="514305636033284" speed="1">
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Estudiante-4.gif">
                         <collision-poly>
                             <point x="0.07" y="0.158192" />
@@ -1016,7 +1016,7 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-4-0\Gif-Guia-Estudiante-4-3.png" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-4-0\Gif-Guia-Estudiante-4-4.png" />
                 </animation>
-                <animation framecount="5" loop="1" name="estudiante5" pingpong="0" repeatcount="1" repeatto="0" sid="758435432852843" speed="1">
+                <animation framecount="5" loop="0" name="estudiante5" pingpong="0" repeatcount="1" repeatto="0" sid="758435432852843" speed="1">
                     <frame duration="1" hotspotX="0.487252" hotspotY="0.455357" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Estudiante-5.gif">
                         <collision-poly>
                             <point x="0.0311615" y="0.00892857" />
@@ -1034,7 +1034,7 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-5-0\Gif-Guia-Estudiante-5-3.png" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-5-0\Gif-Guia-Estudiante-5-4.png" />
                 </animation>
-                <animation framecount="5" loop="1" name="estudiante6" pingpong="0" repeatcount="1" repeatto="0" sid="664783724399999" speed="1">
+                <animation framecount="5" loop="0" name="estudiante6" pingpong="0" repeatcount="1" repeatto="0" sid="664783724399999" speed="1">
                     <frame duration="1" hotspotX="0.487252" hotspotY="0.455357" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Estudiante-6.gif">
                         <collision-poly>
                             <point x="0.0311615" y="0.00892857" />

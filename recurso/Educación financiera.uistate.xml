@@ -42,6 +42,7 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/logoPopular/" />
         <folder expanded="1" path="animation-folder/logoMep/" />
         <folder expanded="1" path="animation-folder/Personaje/" />
+        <folder expanded="1" path="animation-folder/Sprite2/" />
         <folder expanded="1" path="animation-folder/Sprite/" />
         <folder expanded="1" path="animation-folder/acercade/" />
         <folder expanded="1" path="animation-folder/banner_gespro2/" />

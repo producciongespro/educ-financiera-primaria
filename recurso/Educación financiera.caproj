@@ -161,7 +161,7 @@
             <object-type name="Personaje" sid="825567907315817">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="503402949619004" speed="5">
+                    <animation framecount="1" loop="0" name="primero" pingpong="0" repeatcount="1" repeatto="0" sid="503402949619004" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-1.png">
                             <collision-poly>
                                 <point x="0.222772" y="0.148026" />
@@ -172,6 +172,159 @@
                                 <point x="0.5" y="0.917763" />
                                 <point x="0.133663" y="0.911184" />
                                 <point x="0.351485" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="segundo" pingpong="0" repeatcount="1" repeatto="0" sid="183959033922344" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-2.png">
+                            <collision-poly>
+                                <point x="0.331683" y="0.220395" />
+                                <point x="0.5" y="0.0953947" />
+                                <point x="0.80198" y="0.131579" />
+                                <point x="0.767327" y="0.845395" />
+                                <point x="0.5" y="0.921053" />
+                                <point x="0.247525" y="0.835526" />
+                                <point x="0.0990099" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="tercero" pingpong="0" repeatcount="1" repeatto="0" sid="762841184088525" speed="5">
+                        <frame duration="1" hotspotX="0.502164" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-3.png">
+                            <collision-poly>
+                                <point x="0.160173" y="0.121711" />
+                                <point x="0.497835" y="0.0526316" />
+                                <point x="0.662338" y="0.256579" />
+                                <point x="0.744589" y="0.5" />
+                                <point x="0.5671" y="0.671053" />
+                                <point x="0.497835" y="0.914474" />
+                                <point x="0.290043" y="0.779605" />
+                                <point x="0.281385" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="cuarto" pingpong="0" repeatcount="1" repeatto="0" sid="305979288903949" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-4.png">
+                            <collision-poly>
+                                <point x="0.326733" y="0.217105" />
+                                <point x="0.5" y="0.0460526" />
+                                <point x="0.80198" y="0.131579" />
+                                <point x="0.762376" y="0.5" />
+                                <point x="0.70297" y="0.802632" />
+                                <point x="0.5" y="0.888158" />
+                                <point x="0.292079" y="0.805921" />
+                                <point x="0.188119" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="quinto" pingpong="0" repeatcount="1" repeatto="0" sid="679752035203297" speed="5">
+                        <frame duration="1" hotspotX="0.502439" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-5.png">
+                            <collision-poly>
+                                <point x="0.180488" y="0.121711" />
+                                <point x="0.497561" y="0.0526316" />
+                                <point x="0.609756" y="0.263158" />
+                                <point x="0.926829" y="0.5" />
+                                <point x="0.721951" y="0.8125" />
+                                <point x="0.497561" y="0.953947" />
+                                <point x="0.214634" y="0.855263" />
+                                <point x="0.0682927" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="sexto" pingpong="0" repeatcount="1" repeatto="0" sid="704473630625578" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-6.png">
+                            <collision-poly>
+                                <point x="0.19802" y="0.131579" />
+                                <point x="0.5" y="0.0296053" />
+                                <point x="0.693069" y="0.203947" />
+                                <point x="0.777228" y="0.5" />
+                                <point x="0.772277" y="0.848684" />
+                                <point x="0.5" y="0.884868" />
+                                <point x="0.247525" y="0.835526" />
+                                <point x="0.262376" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Sprite2" sid="789296352572278">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="grado1" pingpong="0" repeatcount="1" repeatto="0" sid="451791948352056" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\1ero.png">
+                            <collision-poly>
+                                <point x="0.177083" y="0.2125" />
+                                <point x="0.5" y="0.2375" />
+                                <point x="0.770833" y="0.275" />
+                                <point x="0.9375" y="0.5" />
+                                <point x="0.583333" y="0.5" />
+                                <point x="0.5" y="0.5375" />
+                                <point x="0.114583" y="0.8625" />
+                                <point x="0.177083" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="grado2" pingpong="0" repeatcount="1" repeatto="0" sid="136330355343483" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\2ndo.png">
+                            <collision-poly>
+                                <point x="0.166667" y="0.2" />
+                                <point x="0.822917" y="0.2125" />
+                                <point x="0.864583" y="0.5" />
+                                <point x="0.59375" y="0.5125" />
+                                <point x="0.135417" y="0.8375" />
+                                <point x="0.291667" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="grado3" pingpong="0" repeatcount="1" repeatto="0" sid="927123643607088" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\3ro.png">
+                            <collision-poly>
+                                <point x="0.177083" y="0.2125" />
+                                <point x="0.822917" y="0.2125" />
+                                <point x="0.4375" y="0.5" />
+                                <point x="0.572917" y="0.4875" />
+                                <point x="0.177083" y="0.7875" />
+                                <point x="0.239583" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="grado4" pingpong="0" repeatcount="1" repeatto="0" sid="203565553492902" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\4to.png">
+                            <collision-poly>
+                                <point x="0.270833" y="0.325" />
+                                <point x="0.5" y="0.5875" />
+                                <point x="0.822917" y="0.2125" />
+                                <point x="0.8125" y="0.5" />
+                                <point x="0.447917" y="0.3375" />
+                                <point x="0.5" y="0.675" />
+                                <point x="0.270833" y="0.675" />
+                                <point x="0.1875" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="grado5" pingpong="0" repeatcount="1" repeatto="0" sid="124835711969437" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\5to.png">
+                            <collision-poly>
+                                <point x="0.1875" y="0.225" />
+                                <point x="0.5" y="0.5875" />
+                                <point x="0.802083" y="0.2375" />
+                                <point x="0.854167" y="0.5" />
+                                <point x="0.604167" y="0.525" />
+                                <point x="0.5" y="0.6875" />
+                                <point x="0.177083" y="0.7875" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="grado6" pingpong="0" repeatcount="1" repeatto="0" sid="328511699686471" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\6to.png">
+                            <collision-poly>
+                                <point x="0.208333" y="0.25" />
+                                <point x="0.5" y="0.2875" />
+                                <point x="0.833333" y="0.2" />
+                                <point x="0.5" y="0.5" />
+                                <point x="0.4375" y="0.325" />
+                                <point x="0.5" y="0.7" />
+                                <point x="0.208333" y="0.75" />
+                                <point x="0.166667" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>

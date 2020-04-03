@@ -444,7 +444,7 @@
             <object-type name="acercade" sid="289385907822173">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="453131041565648" speed="5">
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="453131041565648" speed="5">
                         <frame duration="1" hotspotX="0.541985" hotspotY="0.459677" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\Botón-Acerca-de.png">
                             <collision-poly>
                                 <point x="0.0610687" y="0.00403263" />
@@ -452,6 +452,20 @@
                                 <point x="0.793893" y="0.245967" />
                                 <point x="0.965649" y="0.459677" />
                                 <point x="0.996183" y="0.887096" />
+                                <point x="0.541985" y="0.487903" />
+                                <point x="0.503817" y="0.447581" />
+                                <point x="0.519084" y="0.459677" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="998926947268140" speed="5">
+                        <frame duration="1" hotspotX="0.541985" hotspotY="0.459677" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Boton-Acerca-de-Activo.png">
+                            <collision-poly>
+                                <point x="0.0610687" y="0.00403226" />
+                                <point x="0.541985" y="0.0282258" />
+                                <point x="0.793893" y="0.245968" />
+                                <point x="0.965649" y="0.459677" />
+                                <point x="0.996183" y="0.887097" />
                                 <point x="0.541985" y="0.487903" />
                                 <point x="0.503817" y="0.447581" />
                                 <point x="0.519084" y="0.459677" />
@@ -1398,17 +1412,31 @@
         <object-type name="btncerrar" sid="497391827348818">
             <plugin id="Sprite" />
             <animation-folder>
-                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="433038286587441" speed="5">
-                    <frame duration="1" hotspotX="0.505495" hotspotY="0.505882" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\cerrar.png">
+                <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="433038286587441" speed="5">
+                    <frame duration="1" hotspotX="0.507143" hotspotY="0.503876" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Recurso-Primaria-Activado.png">
                         <collision-poly>
-                            <point x="0.120879" y="0.129412" />
-                            <point x="0.494505" y="0.117647" />
-                            <point x="0.879121" y="0.129412" />
-                            <point x="0.89011" y="0.505882" />
-                            <point x="0.868132" y="0.870588" />
-                            <point x="0.494505" y="0.882353" />
-                            <point x="0.131868" y="0.870588" />
-                            <point x="0.10989" y="0.505882" />
+                            <point x="0.142857" y="0.155039" />
+                            <point x="0.5" y="0.0697674" />
+                            <point x="0.892857" y="0.116279" />
+                            <point x="0.964286" y="0.496124" />
+                            <point x="0.892857" y="0.883721" />
+                            <point x="0.5" y="0.899225" />
+                            <point x="0.164286" y="0.821705" />
+                            <point x="0.0571429" y="0.496124" />
+                        </collision-poly>
+                    </frame>
+                </animation>
+                <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="517178069518614" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.503876" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Boton-Cerrar.png">
+                        <collision-poly>
+                            <point x="0.142857" y="0.155039" />
+                            <point x="0.5" y="0.0697674" />
+                            <point x="0.892857" y="0.116279" />
+                            <point x="0.964286" y="0.496124" />
+                            <point x="0.892857" y="0.883721" />
+                            <point x="0.5" y="0.899225" />
+                            <point x="0.164286" y="0.821705" />
+                            <point x="0.0571429" y="0.496124" />
                         </collision-poly>
                     </frame>
                 </animation>

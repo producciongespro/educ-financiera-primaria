@@ -15,5 +15,34 @@
                 </action>
             </actions>
         </event-block>
+        <event-block sid="280529710219334">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="180628935328548" type="Mouse">
+                    <param id="0" name="Object">btncerrar</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="153909278360705" type="btncerrar">
+                    <param id="0" name="Animation">&quot;presionado&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="0" name="Set cursor style" sid="572380904338815" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="298013902874440">
+            <conditions>
+                <condition id="7" inverted="1" name="Cursor is over object" sid="117528092957576" type="Mouse">
+                    <param id="0" name="Object">btncerrar</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="572242424630166" type="btncerrar">
+                    <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+            </actions>
+        </event-block>
     </events>
 </c2eventsheet>

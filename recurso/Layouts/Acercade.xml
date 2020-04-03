@@ -29,7 +29,7 @@
             <blend-mode>0</blend-mode>
             <effect-fallback>0</effect-fallback>
             <instances>
-                <instance type="fondoPrincip" uid="13">
+                <instance type="fondoAcerca" uid="19">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -39,14 +39,14 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>446.034423828</x>
-                        <y>247.99786377</y>
+                        <x>426</x>
+                        <y>237</y>
                         <z>0</z>
-                        <width>900</width>
-                        <height>516</height>
+                        <width>868</width>
+                        <height>488</height>
                         <depth>0</depth>
-                        <hotspotX>0.500781238</hotspotX>
-                        <hotspotY>0.501388907</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -135,33 +135,6 @@
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>0.5</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
-                <instance type="txtDrte" uid="19">
-                    <properties>
-                        <text>DIRECCION DE RECURSOS TECNOLOGICOS</text>
-                        <initial-visibility>Visible</initial-visibility>
-                        <font>Arial Narrow,-32,700,0</font>
-                        <color>0,0,0</color>
-                        <horizontal-alignment>Center</horizontal-alignment>
-                        <vertical-alignment>Top</vertical-alignment>
-                        <hotspot>Top-left</hotspot>
-                        <wrapping>Word</wrapping>
-                        <line-height>0</line-height>
-                    </properties>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>174</x>
-                        <y>41</y>
-                        <z>0</z>
-                        <width>522</width>
-                        <height>128</height>
-                        <depth>0</depth>
-                        <hotspotX>0</hotspotX>
-                        <hotspotY>0</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>

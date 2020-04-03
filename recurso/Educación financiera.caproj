@@ -57,7 +57,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="556000928386983" speed="5">
-                        <frame duration="1" hotspotX="0.500781" hotspotY="0.501389" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Fondo-Color.png">
+                        <frame duration="1" hotspotX="0.500781" hotspotY="0.501389" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\imagenes aprobadas\Fondo-Color.png">
                             <collision-poly>
                                 <point x="0.0697674" y="0.0147059" />
                                 <point x="1" y="0" />
@@ -162,16 +162,16 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="primero" pingpong="0" repeatcount="1" repeatto="0" sid="503402949619004" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-1.png">
+                        <frame duration="1" hotspotX="0.462857" hotspotY="0.505791" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-1.png">
                             <collision-poly>
-                                <point x="0.222772" y="0.148026" />
-                                <point x="0.5" y="0.0855263" />
-                                <point x="0.653465" y="0.230263" />
-                                <point x="0.5" y="0.5" />
-                                <point x="0.574257" y="0.717105" />
-                                <point x="0.5" y="0.917763" />
-                                <point x="0.133663" y="0.911184" />
-                                <point x="0.351485" y="0.5" />
+                                <point x="0.142857" y="0.0926641" />
+                                <point x="0.462857" y="0.019305" />
+                                <point x="0.64" y="0.189189" />
+                                <point x="0.462857" y="0.505791" />
+                                <point x="0.548571" y="0.760618" />
+                                <point x="0.462857" y="0.996139" />
+                                <point x="0.04" y="0.988417" />
+                                <point x="0.291429" y="0.505791" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -325,6 +325,29 @@
                                 <point x="0.5" y="0.7" />
                                 <point x="0.208333" y="0.75" />
                                 <point x="0.166667" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Sprite3" sid="904162745444605">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="365265206178344" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="fondoAcerca" sid="225706256784856">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="776845874076690" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\imagenes aprobadas\Acerca-de.titulo.png">
+                            <collision-poly>
+                                <point x="0.0015625" y="0.00277778" />
+                                <point x="0.999219" y="0.00138889" />
+                                <point x="1" y="1" />
+                                <point x="0.00078125" y="0.998611" />
                             </collision-poly>
                         </frame>
                     </animation>

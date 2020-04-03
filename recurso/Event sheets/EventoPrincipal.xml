@@ -121,7 +121,6 @@
                 </event-block>
             </sub-events>
         </event-block>
-        <event-group description="" sid="518529815300051" title="Botones" />
         <event-block sid="546051969019120">
             <conditions>
                 <condition id="3" name="On touched object" sid="558773911857930" type="Touch">
@@ -158,22 +157,6 @@
                     <param id="1" name="From">1</param>
                 </action>
             </actions>
-        </event-block>
-        <event-block sid="421546882713098">
-            <conditions>
-                <condition id="7" name="Cursor is over object" sid="271291727270765" type="Mouse">
-                    <param id="0" name="Object">Personaje</param>
-                </condition>
-            </conditions>
-            <actions />
-        </event-block>
-        <event-block sid="957432686464771">
-            <conditions>
-                <condition id="7" inverted="1" name="Cursor is over object" sid="642530221995772" type="Mouse">
-                    <param id="0" name="Object">Personaje</param>
-                </condition>
-            </conditions>
-            <actions />
         </event-block>
         <event-block sid="625860657235560">
             <conditions>

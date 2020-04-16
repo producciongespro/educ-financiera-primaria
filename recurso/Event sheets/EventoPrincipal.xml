@@ -163,54 +163,6 @@
             </actions>
         </event-block>
         <event-group description="" sid="303264020711419" title="Efectos-Opacidad al pasa- mouse" />
-        <event-block disabled="1" sid="625860657235560">
-            <conditions>
-                <condition id="7" name="Cursor is over object" sid="194246858850827" type="Mouse">
-                    <param id="0" name="Object">GifGuiaDocente</param>
-                </condition>
-            </conditions>
-            <actions>
-                <action id="-16" name="Set opacity" sid="978989816540743" type="GifGuiaDocente">
-                    <param id="0" name="Opacity">70</param>
-                </action>
-            </actions>
-        </event-block>
-        <event-block disabled="1" sid="410619224670302">
-            <conditions>
-                <condition id="7" inverted="1" name="Cursor is over object" sid="546817574952841" type="Mouse">
-                    <param id="0" name="Object">GifGuiaDocente</param>
-                </condition>
-            </conditions>
-            <actions>
-                <action id="-16" name="Set opacity" sid="878262795495816" type="GifGuiaDocente">
-                    <param id="0" name="Opacity">100</param>
-                </action>
-            </actions>
-        </event-block>
-        <event-block disabled="1" sid="112221171804465">
-            <conditions>
-                <condition id="7" name="Cursor is over object" sid="388715481208066" type="Mouse">
-                    <param id="0" name="Object">GifGuiaEstudiante</param>
-                </condition>
-            </conditions>
-            <actions>
-                <action id="-16" name="Set opacity" sid="761062332142597" type="GifGuiaEstudiante">
-                    <param id="0" name="Opacity">70</param>
-                </action>
-            </actions>
-        </event-block>
-        <event-block disabled="1" sid="434292788400746">
-            <conditions>
-                <condition id="7" inverted="1" name="Cursor is over object" sid="462653262937270" type="Mouse">
-                    <param id="0" name="Object">GifGuiaEstudiante</param>
-                </condition>
-            </conditions>
-            <actions>
-                <action id="-16" name="Set opacity" sid="344452376579425" type="GifGuiaEstudiante">
-                    <param id="0" name="Opacity">100</param>
-                </action>
-            </actions>
-        </event-block>
         <event-group description="" sid="126501935309333" title="Sonidos" />
         <event-block sid="475331326843114">
             <conditions>

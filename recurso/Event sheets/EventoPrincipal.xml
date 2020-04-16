@@ -210,5 +210,57 @@
                 </action>
             </actions>
         </event-block>
+        <event-group description="" sid="126501935309333" title="Sonidos" />
+        <event-block sid="475331326843114">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="322942458001471" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">acercade</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="196970912768192" type="Audio">
+                    <param id="0" name="Audio file">Beep</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">0</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="280718045289415">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="573333745005171" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">GifGuiaDocente</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="392156892438969" type="Audio">
+                    <param id="0" name="Audio file">Beep</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">0</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="452757022013225">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="764406252585965" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">GifGuiaEstudiante</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="603199285256802" type="Audio">
+                    <param id="0" name="Audio file">Beep</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">0</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
     </events>
 </c2eventsheet>

@@ -44,5 +44,22 @@
                 </action>
             </actions>
         </event-block>
+        <event-block sid="790308539432959">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="734266023128186" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">btncerrar</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="679334863358893" type="Audio">
+                    <param id="0" name="Audio file">Beep</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">0</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
     </events>
 </c2eventsheet>

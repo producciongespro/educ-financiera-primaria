@@ -1504,7 +1504,9 @@
             </properties>
         </global-instance>
     </global-instances>
-    <sounds-folder />
+    <sounds-folder>
+        <file name="Beep.ogg" />
+    </sounds-folder>
     <music-folder>
         <file name="Meitpower.ogg" />
     </music-folder>

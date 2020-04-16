@@ -162,7 +162,8 @@
                 </action>
             </actions>
         </event-block>
-        <event-block sid="625860657235560">
+        <event-group description="" sid="303264020711419" title="Efectos-Opacidad al pasa- mouse" />
+        <event-block disabled="1" sid="625860657235560">
             <conditions>
                 <condition id="7" name="Cursor is over object" sid="194246858850827" type="Mouse">
                     <param id="0" name="Object">GifGuiaDocente</param>
@@ -174,7 +175,7 @@
                 </action>
             </actions>
         </event-block>
-        <event-block sid="410619224670302">
+        <event-block disabled="1" sid="410619224670302">
             <conditions>
                 <condition id="7" inverted="1" name="Cursor is over object" sid="546817574952841" type="Mouse">
                     <param id="0" name="Object">GifGuiaDocente</param>
@@ -186,7 +187,7 @@
                 </action>
             </actions>
         </event-block>
-        <event-block sid="112221171804465">
+        <event-block disabled="1" sid="112221171804465">
             <conditions>
                 <condition id="7" name="Cursor is over object" sid="388715481208066" type="Mouse">
                     <param id="0" name="Object">GifGuiaEstudiante</param>
@@ -198,7 +199,7 @@
                 </action>
             </actions>
         </event-block>
-        <event-block sid="434292788400746">
+        <event-block disabled="1" sid="434292788400746">
             <conditions>
                 <condition id="7" inverted="1" name="Cursor is over object" sid="462653262937270" type="Mouse">
                     <param id="0" name="Object">GifGuiaEstudiante</param>
@@ -259,6 +260,59 @@
                     <param id="2" name="Loop">0</param>
                     <param id="3" name="Volume">0</param>
                     <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-group description="" sid="577736863879921" title="Efectos-tamaño al pasa- mouse" />
+        <event-block sid="995397031389016">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="664279077718194" type="Mouse">
+                    <param id="0" name="Object">GifGuiaDocente</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-7" name="Set size" sid="447915810296786" type="GifGuiaDocente">
+                    <param id="0" name="Width">110</param>
+                    <param id="1" name="Height">60</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="581037820111734">
+            <conditions>
+                <condition id="7" inverted="1" name="Cursor is over object" sid="174511644537989" type="Mouse">
+                    <param id="0" name="Object">GifGuiaDocente</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-7" name="Set size" sid="229784728046190" type="GifGuiaDocente">
+                    <param id="0" name="Width">100</param>
+                    <param id="1" name="Height">50</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="152518537849797">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="699660244875744" type="Mouse">
+                    <param id="0" name="Object">GifGuiaEstudiante</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-7" name="Set size" sid="651382307812916" type="GifGuiaEstudiante">
+                    <param id="0" name="Width">110</param>
+                    <param id="1" name="Height">60</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="287416710512118">
+            <conditions>
+                <condition id="7" inverted="1" name="Cursor is over object" sid="782488878883702" type="Mouse">
+                    <param id="0" name="Object">GifGuiaEstudiante</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-7" name="Set size" sid="422010062340226" type="GifGuiaEstudiante">
+                    <param id="0" name="Width">100</param>
+                    <param id="1" name="Height">50</param>
                 </action>
             </actions>
         </event-block>

@@ -162,7 +162,7 @@
             <object-type name="Personaje" sid="825567907315817">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="primero" pingpong="0" repeatcount="1" repeatto="0" sid="503402949619004" speed="5">
+                    <animation framecount="2" loop="0" name="primero" pingpong="0" repeatcount="1" repeatto="0" sid="503402949619004" speed="5">
                         <frame duration="1" hotspotX="0.462857" hotspotY="0.505791" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-1.png">
                             <collision-poly>
                                 <point x="0.142857" y="0.0926641" />
@@ -173,6 +173,18 @@
                                 <point x="0.462857" y="0.996139" />
                                 <point x="0.04" y="0.988417" />
                                 <point x="0.291429" y="0.505791" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.537143" hotspotY="0.505791">
+                            <collision-poly>
+                                <point x="0.708571" y="0.505791" />
+                                <point x="0.96" y="0.988417" />
+                                <point x="0.537143" y="0.996139" />
+                                <point x="0.451429" y="0.760618" />
+                                <point x="0.537143" y="0.505791" />
+                                <point x="0.36" y="0.189189" />
+                                <point x="0.537143" y="0.019305" />
+                                <point x="0.857143" y="0.0926641" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -842,39 +854,39 @@
                             <point x="0.00274725" y="0.507143" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.514286">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.101695" />
-                            <point x="0.9325" y="0.152542" />
-                            <point x="0.9525" y="0.497175" />
-                            <point x="0.935" y="0.853107" />
-                            <point x="0.5" y="0.79096" />
-                            <point x="0.0625" y="0.858757" />
-                            <point x="0.0475" y="0.497175" />
+                            <point x="0.0384615" y="0.107143" />
+                            <point x="0.5" y="0.00714297" />
+                            <point x="0.975275" y="0.0714281" />
+                            <point x="0.997253" y="0.507143" />
+                            <point x="0.978022" y="0.957142" />
+                            <point x="0.5" y="0.878571" />
+                            <point x="0.0192308" y="0.964286" />
+                            <point x="0.00274725" y="0.507143" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.514286">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.101695" />
-                            <point x="0.9325" y="0.152542" />
-                            <point x="0.9525" y="0.497175" />
-                            <point x="0.935" y="0.853107" />
-                            <point x="0.5" y="0.79096" />
-                            <point x="0.0625" y="0.858757" />
-                            <point x="0.0475" y="0.497175" />
+                            <point x="0.0384615" y="0.107143" />
+                            <point x="0.5" y="0.00714297" />
+                            <point x="0.975275" y="0.0714281" />
+                            <point x="0.997253" y="0.507143" />
+                            <point x="0.978022" y="0.957142" />
+                            <point x="0.5" y="0.878571" />
+                            <point x="0.0192308" y="0.964286" />
+                            <point x="0.00274725" y="0.507143" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.514286">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.101695" />
-                            <point x="0.9325" y="0.152542" />
-                            <point x="0.9525" y="0.497175" />
-                            <point x="0.9425" y="0.870057" />
-                            <point x="0.0625" y="0.858757" />
-                            <point x="0.0475" y="0.497175" />
+                            <point x="0.0384615" y="0.107143" />
+                            <point x="0.5" y="0.00714297" />
+                            <point x="0.975275" y="0.0714281" />
+                            <point x="0.997253" y="0.507143" />
+                            <point x="0.986264" y="0.978572" />
+                            <point x="0.0192308" y="0.964286" />
+                            <point x="0.00274725" y="0.507143" />
                         </collision-poly>
                     </frame>
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
@@ -889,27 +901,27 @@
                             <point x="0.0475" y="0.497175" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.510638">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.101695" />
-                            <point x="0.9325" y="0.152542" />
-                            <point x="0.9525" y="0.497175" />
-                            <point x="0.945" y="0.875706" />
-                            <point x="0.0625" y="0.858757" />
-                            <point x="0.0475" y="0.497175" />
+                            <point x="0.0384615" y="0.106383" />
+                            <point x="0.5" y="0.00709231" />
+                            <point x="0.975275" y="0.0709215" />
+                            <point x="0.997253" y="0.503546" />
+                            <point x="0.989011" y="0.978723" />
+                            <point x="0.0192308" y="0.957447" />
+                            <point x="0.00274725" y="0.503546" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.514286">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.101695" />
-                            <point x="0.9325" y="0.152542" />
-                            <point x="0.9525" y="0.497175" />
-                            <point x="0.935" y="0.853107" />
-                            <point x="0.5" y="0.79096" />
-                            <point x="0.0625" y="0.858757" />
-                            <point x="0.0475" y="0.497175" />
+                            <point x="0.0384615" y="0.107143" />
+                            <point x="0.5" y="0.00714297" />
+                            <point x="0.975275" y="0.0714281" />
+                            <point x="0.997253" y="0.507143" />
+                            <point x="0.978022" y="0.957142" />
+                            <point x="0.5" y="0.878571" />
+                            <point x="0.0192308" y="0.964286" />
+                            <point x="0.00274725" y="0.507143" />
                         </collision-poly>
                     </frame>
                 </animation>
@@ -926,98 +938,87 @@
                             <point x="0.00277778" y="0.518519" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-1.png">
+                    <frame duration="1" hotspotX="0.508333" hotspotY="0.525926" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-1.png">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
+                            <point x="0.0416667" y="0.103704" />
+                            <point x="0.508333" y="0.00740789" />
+                            <point x="0.983333" y="0.0814817" />
+                            <point x="0.997222" y="0.518518" />
+                            <point x="0.980556" y="0.955555" />
+                            <point x="0.508333" y="0.881481" />
+                            <point x="0.025" y="0.985185" />
+                            <point x="0.00277778" y="0.518518" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-2.png">
+                    <frame duration="1" hotspotX="0.508333" hotspotY="0.525926" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-2.png">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
+                            <point x="0.0416667" y="0.103704" />
+                            <point x="0.508333" y="0.00740789" />
+                            <point x="0.983333" y="0.0814817" />
+                            <point x="0.997222" y="0.518518" />
+                            <point x="0.980556" y="0.955555" />
+                            <point x="0.508333" y="0.881481" />
+                            <point x="0.025" y="0.985185" />
+                            <point x="0.00277778" y="0.518518" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-3.png">
+                    <frame duration="1" hotspotX="0.506925" hotspotY="0.525926" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-3.png">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.813559" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
+                            <point x="0.0415512" y="0.103704" />
+                            <point x="0.506925" y="0.00740789" />
+                            <point x="0.980609" y="0.0814817" />
+                            <point x="0.99446" y="0.518518" />
+                            <point x="0.977839" y="0.955555" />
+                            <point x="0.506925" y="0.933333" />
+                            <point x="0.0249307" y="0.985185" />
+                            <point x="0.00277008" y="0.518518" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-4.png">
+                    <frame duration="1" hotspotX="0.50137" hotspotY="0.44375" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-4.png">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.875706" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
+                            <point x="0.0410959" y="0.0875001" />
+                            <point x="0.50137" y="0.00625041" />
+                            <point x="0.969863" y="0.0687502" />
+                            <point x="0.983562" y="0.4375" />
+                            <point x="0.967123" y="0.806249" />
+                            <point x="0.50137" y="0.85625" />
+                            <point x="0.0246575" y="0.83125" />
+                            <point x="0.00273973" y="0.4375" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-5.png">
+                    <frame duration="1" hotspotX="0.506925" hotspotY="0.525926" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-5.png">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.819209" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
+                            <point x="0.0415512" y="0.103704" />
+                            <point x="0.506925" y="0.00740789" />
+                            <point x="0.980609" y="0.0814817" />
+                            <point x="0.99446" y="0.518518" />
+                            <point x="0.977839" y="0.955555" />
+                            <point x="0.506925" y="0.940741" />
+                            <point x="0.0249307" y="0.985185" />
+                            <point x="0.00277008" y="0.518518" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-6.png">
+                    <frame duration="1" hotspotX="0.508333" hotspotY="0.525926" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-6.png">
                         <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
+                            <point x="0.0416667" y="0.103704" />
+                            <point x="0.508333" y="0.00740789" />
+                            <point x="0.983333" y="0.0814817" />
+                            <point x="0.997222" y="0.518518" />
+                            <point x="0.980556" y="0.955555" />
+                            <point x="0.508333" y="0.881481" />
+                            <point x="0.025" y="0.985185" />
+                            <point x="0.00277778" y="0.518518" />
                         </collision-poly>
                     </frame>
                 </animation>
                 <animation framecount="7" loop="0" name="docente3" pingpong="0" repeatcount="1" repeatto="0" sid="670035923621021" speed="1">
-                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-3.gif">
-                        <collision-poly>
-                            <point x="0.0453258" y="0.110294" />
-                            <point x="0.507082" y="0.00735294" />
-                            <point x="0.977337" y="0.0882353" />
-                            <point x="0.997167" y="0.485294" />
-                            <point x="0.988669" y="0.919118" />
-                            <point x="0.507082" y="0.875" />
-                            <point x="0.0169972" y="0.941176" />
-                            <point x="0.00283286" y="0.485294" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-1.png" />
-                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-2.png" />
-                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-3.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-4.png" />
-                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-5.png" />
-                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-6.png" />
+                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\imagenes aprobadas\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-0.png" />
+                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\imagenes aprobadas\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-1.png" />
+                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\imagenes aprobadas\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-2.png" />
+                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\imagenes aprobadas\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-3.png" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.429487" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\imagenes aprobadas\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-4.png" />
+                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\imagenes aprobadas\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-5.png" />
+                    <frame duration="1" hotspotX="0.507082" hotspotY="0.492647" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\imagenes aprobadas\frame\Gif-Guia-Docente-3-0\Gif-Guia-Docente-3-6.png" />
                 </animation>
                 <animation framecount="7" loop="0" name="docente4" pingpong="0" repeatcount="1" repeatto="0" sid="492141221627081" speed="1">
                     <frame duration="1" hotspotX="0.491071" hotspotY="0.511811" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-4.gif">
@@ -1032,12 +1033,12 @@
                             <point x="0.00297619" y="0.503937" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-1.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-2.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-3.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-4.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-5.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-6.png" />
+                    <frame duration="1" hotspotX="0.491071" hotspotY="0.511811" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-1.png" />
+                    <frame duration="1" hotspotX="0.491071" hotspotY="0.511811" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-2.png" />
+                    <frame duration="1" hotspotX="0.491071" hotspotY="0.511811" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-3.png" />
+                    <frame duration="1" hotspotX="0.485294" hotspotY="0.422078" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-4.png" />
+                    <frame duration="1" hotspotX="0.489614" hotspotY="0.511811" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-5.png" />
+                    <frame duration="1" hotspotX="0.491071" hotspotY="0.511811" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-4-0\Gif-Guia-Docente-4-6.png" />
                 </animation>
                 <animation framecount="7" loop="0" name="docente5" pingpong="0" repeatcount="1" repeatto="0" sid="570273377946986" speed="1">
                     <frame duration="1" hotspotX="0.498534" hotspotY="0.515625" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Docente-5.gif">
@@ -1072,12 +1073,12 @@
                             <point x="0.00302115" y="0.504202" />
                         </collision-poly>
                     </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-1.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-2.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-3.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-4.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-5.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-6.png" />
+                    <frame duration="1" hotspotX="0.501511" hotspotY="0.512605" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-1.png" />
+                    <frame duration="1" hotspotX="0.501511" hotspotY="0.512605" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-2.png" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.512605" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-3.png" />
+                    <frame duration="1" hotspotX="0.494048" hotspotY="0.406667" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-4.png" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.512605" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-5.png" />
+                    <frame duration="1" hotspotX="0.501511" hotspotY="0.512605" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Docente-6-0\Gif-Guia-Docente-6-6.png" />
                 </animation>
             </animation-folder>
         </object-type>
@@ -1232,207 +1233,6 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-6-0\Gif-Guia-Estudiante-6-2.png" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-6-0\Gif-Guia-Estudiante-6-3.png" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-6-0\Gif-Guia-Estudiante-6-4.png" />
-                </animation>
-            </animation-folder>
-        </object-type>
-        <object-type name="GifGuiaDocente2" sid="847754717134526">
-            <plugin id="Sprite" />
-            <animation-folder>
-                <animation framecount="7" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="273086656056620" speed="5">
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-0.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-1.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-2.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-3.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.813559" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-4.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.875706" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-5.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.819209" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-6.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-            </animation-folder>
-        </object-type>
-        <object-type name="GifGuiaDocente3" sid="488789883113510">
-            <plugin id="Sprite" />
-            <animation-folder>
-                <animation framecount="7" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="792956643751647" speed="5">
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-0.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-1.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-2.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-3.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.813559" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-4.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.875706" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-5.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.819209" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-6.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-            </animation-folder>
-        </object-type>
-        <object-type name="GifGuiaDocente4" sid="208238116325958">
-            <plugin id="Sprite" />
-            <animation-folder>
-                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="147178301845803" speed="5">
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\Users\User\Downloads\Gif-Guia-Docente-2-0\Gif-Guia-Docente-2-1.png">
-                        <collision-poly>
-                            <point x="0.08" y="0.180791" />
-                            <point x="0.5" y="0.107345" />
-                            <point x="0.9275" y="0.163842" />
-                            <point x="0.94" y="0.497175" />
-                            <point x="0.925" y="0.830508" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.065" y="0.853107" />
-                            <point x="0.045" y="0.497175" />
-                        </collision-poly>
-                    </frame>
                 </animation>
             </animation-folder>
         </object-type>

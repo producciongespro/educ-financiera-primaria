@@ -42,6 +42,9 @@
                     <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
                     <param id="1" name="From">1</param>
                 </action>
+                <action id="0" name="Set cursor style" sid="305070036768894" type="Mouse">
+                    <param id="0" name="Cursor style">0</param>
+                </action>
             </actions>
         </event-block>
         <event-block sid="790308539432959">

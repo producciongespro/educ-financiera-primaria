@@ -69,58 +69,8 @@
             </sub-events>
         </event-group>
         <event-group description="" sid="764983936932210" title="Efectos" />
-        <event-block sid="206897524522644">
-            <conditions>
-                <condition id="7" name="Cursor is over object" sid="774564628241292" type="Mouse">
-                    <param id="0" name="Object">GifGuiaDocente</param>
-                </condition>
-            </conditions>
-            <actions>
-                <action id="0" name="Set cursor style" sid="764303159072363" type="Mouse">
-                    <param id="0" name="Cursor style">1</param>
-                </action>
-            </actions>
-            <sub-events>
-                <event-block sid="598095494300980">
-                    <conditions>
-                        <condition id="7" inverted="1" name="Cursor is over object" sid="405469537912332" type="Mouse">
-                            <param id="0" name="Object">GifGuiaDocente</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="0" name="Set cursor style" sid="150066880733165" type="Mouse">
-                            <param id="0" name="Cursor style">0</param>
-                        </action>
-                    </actions>
-                </event-block>
-            </sub-events>
-        </event-block>
-        <event-block sid="661692837318605">
-            <conditions>
-                <condition id="7" name="Cursor is over object" sid="552392625002362" type="Mouse">
-                    <param id="0" name="Object">GifGuiaEstudiante</param>
-                </condition>
-            </conditions>
-            <actions>
-                <action id="0" name="Set cursor style" sid="372287758514176" type="Mouse">
-                    <param id="0" name="Cursor style">1</param>
-                </action>
-            </actions>
-            <sub-events>
-                <event-block sid="214141043112359">
-                    <conditions>
-                        <condition id="7" inverted="1" name="Cursor is over object" sid="776057777762060" type="Mouse">
-                            <param id="0" name="Object">GifGuiaEstudiante</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="0" name="Set cursor style" sid="653254027849628" type="Mouse">
-                            <param id="0" name="Cursor style">0</param>
-                        </action>
-                    </actions>
-                </event-block>
-            </sub-events>
-        </event-block>
+        <comment>Cursor en manita  (Botones de guias)</comment>
+        <comment>Pasar a otra página al dar clic a  (acerca de)</comment>
         <event-block sid="546051969019120">
             <conditions>
                 <condition id="3" name="On touched object" sid="558773911857930" type="Touch">
@@ -133,6 +83,7 @@
                 </action>
             </actions>
         </event-block>
+        <comment>Cursos en manita (acerca de)</comment>
         <event-block sid="338889975900637">
             <conditions>
                 <condition id="7" name="Cursor is over object" sid="148561478302592" type="Mouse">
@@ -144,7 +95,7 @@
                     <param id="0" name="Animation">&quot;presionado&quot;</param>
                     <param id="1" name="From">1</param>
                 </action>
-                <action id="0" name="Set cursor style" sid="329039203850507" type="Mouse">
+                <action id="0" name="Set cursor style" sid="766883159810798" type="Mouse">
                     <param id="0" name="Cursor style">1</param>
                 </action>
             </actions>
@@ -160,9 +111,11 @@
                     <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
                     <param id="1" name="From">1</param>
                 </action>
+                <action id="0" name="Set cursor style" sid="240289366477758" type="Mouse">
+                    <param id="0" name="Cursor style">0</param>
+                </action>
             </actions>
         </event-block>
-        <event-group description="" sid="303264020711419" title="Efectos-Opacidad al pasa- mouse" />
         <event-group description="" sid="126501935309333" title="Sonidos" />
         <event-block sid="475331326843114">
             <conditions>
@@ -227,6 +180,9 @@
                     <param id="0" name="Width">110</param>
                     <param id="1" name="Height">60</param>
                 </action>
+                <action id="0" name="Set cursor style" sid="764303159072363" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
+                </action>
             </actions>
         </event-block>
         <event-block sid="581037820111734">
@@ -239,6 +195,9 @@
                 <action id="-7" name="Set size" sid="229784728046190" type="GifGuiaDocente">
                     <param id="0" name="Width">100</param>
                     <param id="1" name="Height">50</param>
+                </action>
+                <action id="0" name="Set cursor style" sid="817139048741505" type="Mouse">
+                    <param id="0" name="Cursor style">0</param>
                 </action>
             </actions>
         </event-block>
@@ -253,6 +212,9 @@
                     <param id="0" name="Width">110</param>
                     <param id="1" name="Height">60</param>
                 </action>
+                <action id="0" name="Set cursor style" sid="372287758514176" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
+                </action>
             </actions>
         </event-block>
         <event-block sid="287416710512118">
@@ -265,6 +227,9 @@
                 <action id="-7" name="Set size" sid="422010062340226" type="GifGuiaEstudiante">
                     <param id="0" name="Width">100</param>
                     <param id="1" name="Height">50</param>
+                </action>
+                <action id="0" name="Set cursor style" sid="605319746753517" type="Mouse">
+                    <param id="0" name="Cursor style">0</param>
                 </action>
             </actions>
         </event-block>

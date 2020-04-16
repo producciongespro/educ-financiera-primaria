@@ -177,8 +177,8 @@
             </conditions>
             <actions>
                 <action id="-7" name="Set size" sid="447915810296786" type="GifGuiaDocente">
-                    <param id="0" name="Width">110</param>
-                    <param id="1" name="Height">60</param>
+                    <param id="0" name="Width">120</param>
+                    <param id="1" name="Height">70</param>
                 </action>
                 <action id="0" name="Set cursor style" sid="764303159072363" type="Mouse">
                     <param id="0" name="Cursor style">1</param>
@@ -209,8 +209,8 @@
             </conditions>
             <actions>
                 <action id="-7" name="Set size" sid="651382307812916" type="GifGuiaEstudiante">
-                    <param id="0" name="Width">110</param>
-                    <param id="1" name="Height">60</param>
+                    <param id="0" name="Width">120</param>
+                    <param id="1" name="Height">70</param>
                 </action>
                 <action id="0" name="Set cursor style" sid="372287758514176" type="Mouse">
                     <param id="0" name="Cursor style">1</param>

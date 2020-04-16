@@ -140,6 +140,10 @@
                 </condition>
             </conditions>
             <actions>
+                <action id="4" name="Set animation" sid="380834139935775" type="acercade">
+                    <param id="0" name="Animation">&quot;presionado&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
                 <action id="0" name="Set cursor style" sid="329039203850507" type="Mouse">
                     <param id="0" name="Cursor style">1</param>
                 </action>
